@@ -1,0 +1,24 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.2 Usufruto de Férias e Participação em Comissões .................................................................05]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.3.2 Usufruto de Férias e Participação em Comissões .................................................................05]
+[CHUNKS_RELACIONADOS: 007 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 008-sec2-232-usufruto-de-ferias-e--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.3.2 Usufruto de Férias e Participação em Comissões .................................................................05
+
+[CONTEÚDO_CONTINUIDADE]
+
+Tratamento de Saúde de Pessoa da Família (LTF) ........................................................................05 
+
+

@@ -1,0 +1,39 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.5 Orientações gerais ao Setorial/Seccional de Gestão de Pessoas referente aos registros]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.5 Orientações gerais ao Setorial/Seccional de Gestão de Pessoas referente aos registros]
+[CHUNKS_RELACIONADOS: 075 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 94 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 076-sec3-35-orientacoes-gerais-ao--geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.5 Orientações gerais ao Setorial/Seccional de Gestão de Pessoas referente aos registros
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Gerente/Diretor da unidade organizacional  
+ 
+Acompanhar e controlar a efetivação das férias dos servidores sob sua responsabilidade, 
+conforme programação vigente. Havendo necessidade de alteração, proceder e orientar conforme 
+consta no manual, em procedimento administrativo padrão. 
+ 
+
+
+de férias no Sistema Integrado de Gestão de Recursos Humanos - SIGRH e à folha de 
+pagamento 
+ 
+A data limite para cadastrar inclusões, alterações, interrupções e sustações de férias que 
+repercutam na folha de pagamento será até o FECHAMENTO PARCIAL da folha, conforme 
+cronograma divulgado na tela de entrada do SIGRH. 
+ 
+O desbloqueio para novas inclusões de alteração, interrupção ou sustação de férias será realizado 
+após o fechamento definitivo da folha de pagamento.

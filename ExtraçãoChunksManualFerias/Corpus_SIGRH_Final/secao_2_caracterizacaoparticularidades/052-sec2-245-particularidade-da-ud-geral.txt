@@ -1,0 +1,30 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.5 Particularidade da UDESC]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4.5 Particularidade da UDESC]
+[CHUNKS_RELACIONADOS: 051 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 41 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 052-sec2-245-particularidade-da-ud-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4.5 Particularidade da UDESC
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Os integrantes do CTISP que atuarem na atividade de guarda em escolas das redes públicas de 
+ensino gozarão de férias exclusivamente no período de recesso escolar.  
+ 
+
+
+O Professor Colaborador admitido em caráter temporário na UDESC, tem direito às férias 
+remuneradas, com usufruto no mês de janeiro de cada ano depois de decorrido 1 (um) ano da 
+admissão vigente.

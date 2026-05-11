@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.3 Acumulação de Férias ...........................................................................................................05]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.3.3 Acumulação de Férias ...........................................................................................................05]
+[CHUNKS_RELACIONADOS: 008 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 009-sec2-233-acumulacao-de-ferias--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.3.3 Acumulação de Férias ...........................................................................................................05
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

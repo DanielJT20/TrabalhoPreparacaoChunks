@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos ...............................................................................................11]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.4 Controle geral da escala de férias ............................................................................................15]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos ...............................................................................................11 > 3.4 Controle geral da escala de férias ............................................................................................15]
+[CHUNKS_RELACIONADOS: 032 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 033-sec3-34-controle-geral-da-esca-geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS ...............................................................................................11
+## 3.4 Controle geral da escala de férias ............................................................................................15
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

@@ -1,0 +1,481 @@
+# PROMPT – EXTRAÇÃO CANÔNICA E CHUNKING RIGOROSO PARA RAG (v3.0 - UNIVERSAL)
+
+Analise o documento técnico anexo (PDF, DOCX, TXT ou MD).
+
+
+APLIQUE TODO O PIPELINE DESCRITO CONSIDERANDO EX-CLUSIVAMENTE A SEÇÃO: "3 Procedimentos Administrativos" (pá-ginas 11-15)
+Contexto da análise prévia:
+•	Dimensão primária identificada: ATOR/RESPONSÁVEL
+•	Atores principais: Servidor, Gestor/Superior imediato, Setori-al/Seccional de Gestão de Pessoas
+•	Estrutura: Workflows sequenciais (Servidor solicita → Gestor homologa → RH processa)
+•	OBRIGATÓRIO: Aplicar overlap de 10-15% entre chunks de fluxos sequenciais para preservar a continuidade.
+Ignore qualquer conteúdo fora da Seção 3.
+
+***
+
+## Regra fundamental (prioridade máxima)
+
+Você não deve escrever texto novo.
+Seu papel é extrair e reorganizar o texto existente no documento, nunca:
+
+- reescrever frases
+- suavizar linguagem
+- melhorar fluidez
+- modernizar construções
+- completar ideias
+- ajustar tom editorial
+- parafrasear ou resumir
+
+Se houver dúvida entre:
+- manter o texto original literal
+- ou torná-lo "mais claro"
+
+Sempre mantenha o texto literal, mesmo que pareça repetitivo, estranho ou pouco elegante.
+
+***
+
+## Etapa 1 – Limpeza do conteúdo (extração literal)
+
+Extraia somente o conteúdo textual existente no documento, necessário para sua compreensão.
+
+Ignore completamente:
+- cabeçalhos e rodapés recorrentes
+- números de página
+- marcas d'água
+- avisos legais repetitivos
+- artefatos de layout causados por colunas, quebras de página ou alinhamento visual
+
+**Preserve integralmente**:
+- Blocos de código, comandos ou sintaxe técnica
+- Tabelas de dados, parâmetros ou especificações
+- Listas numeradas (especialmente procedimentos de segurança)
+- Fórmulas matemáticas ou químicas
+- Diagramas textuais (ASCII art, árvores de decisão)
+
+Não altere palavras, tempos verbais, pontuação ou construções frasais.
+
+A limpeza deve remover apenas ruído visual, nunca conteúdo textual ou estruturas técnicas.
+
+***
+
+## Etapa 2 – Preservação estrutural obrigatória
+
+Sempre que identificar um título ou subtítulo existente no documento, preserve-o literalmente em Markdown, respeitando exatamente o nível hierárquico original:
+
+- `#` para título do documento
+- `##` para seções principais
+- `###` para subseções
+- `####` para subtópicos
+
+Não crie títulos novos.
+Não renomeie títulos.
+Não altere níveis hierárquicos.
+
+Se uma seção principal (##) existir no documento original, ela deve obrigatoriamente aparecer no resultado.
+
+***
+
+## Etapa 3 – Identificação da Dimensão de Chunking
+
+**PASSO CRÍTICO**: Antes de iniciar o chunking, identifique a **dimensão primária de organização** do documento:
+
+### Dimensões Possíveis:
+
+**1. ATOR/RESPONSÁVEL** (Manuais Administrativos, Procedimentais, Operacionais)
+- Documento organizado por quem executa a ação
+- Exemplos: Servidor, Gestor, RH, Operador, Técnico, Atendente, Supervisor
+- Identificadores: "O servidor deve...", "Compete ao gestor...", "Responsabilidade do técnico..."
+
+**2. FUNCIONALIDADE** (Manuais Técnicos de Software, APIs, Sistemas)
+- Documento organizado por capacidades ou recursos do sistema
+- Exemplos: Autenticação, Autorização, Backup, Logging, API REST, Integração
+- Identificadores: "Módulo de...", "Funcionalidade de...", "Recurso para..."
+
+**3. COMPONENTE** (Manuais de Equipamento, Hardware, Arquitetura)
+- Documento organizado por partes físicas ou lógicas
+- Exemplos: Motor, Painel de Controle, Sensor, Database, Servidor, Interface
+- Identificadores: "O motor...", "O sensor X...", "Componente Y..."
+
+**4. TÓPICO/CLÁUSULA** (Manuais de Políticas, Compliance, Regulamentação)
+- Documento organizado por assuntos ou normas independentes
+- Exemplos: Privacidade, Ética, Conflito de Interesses, LGPD, Segurança da Informação
+- Identificadores: "Cláusula X", "Política de...", "Norma sobre..."
+
+**5. CENÁRIO/PROBLEMA** (Troubleshooting, FAQs, Solução de Problemas)
+- Documento organizado por situações ou erros
+- Exemplos: Erro 404, Falha na conexão, Problema X, Sintoma Y
+- Identificadores: "Se ocorrer...", "Em caso de...", "Quando..."
+
+**6. CONCEITO/ENTRADA** (Glossários, Dicionários Técnicos, Referências)
+- Documento organizado por termos ou definições
+- Exemplos: Termos técnicos, Definições, Abreviaturas
+- Identificadores: Lista alfabética, "Define-se como...", "Entende-se por..."
+
+**Instruções**:
+- Leia a estrutura do documento
+- Identifique qual dimensão predomina
+- Use essa dimensão como critério primário de divisão de chunks
+- Preencha o campo `[DIMENSÃO_PRIMÁRIA]` nos metadados
+
+***
+
+## Etapa 4 – Chunking semântico explícito e canônico
+
+### Definição de chunk
+
+Cada chunk corresponde a:
+- Exatamente um título de terceiro nível (###), OU
+- Uma subdivisão semântica dele baseada na **dimensão primária identificada**
+
+O chunk inicia imediatamente após o título ###.
+O chunk termina imediatamente antes do próximo título ### ou do fim da seção analisada.
+Subtítulos #### devem permanecer dentro do chunk do ### imediatamente superior.
+
+### Critérios de divisão semântica (aplicar ANTES de verificar tamanho)
+
+**Para dimensão ATOR/RESPONSÁVEL**:
+- Se uma seção ### descreve procedimentos de diferentes atores, divida em chunks separados, um para cada ator principal
+- Exemplo: "3.1.1 Solicitação de Férias" → Chunk 1 (Servidor), Chunk 2 (Gestor), Chunk 3 (RH)
+
+**Para dimensão FUNCIONALIDADE**:
+- Se uma seção ### descreve múltiplas funcionalidades distintas, divida por funcionalidade
+- Exemplo: "4.2 Segurança" → Chunk 1 (Autenticação), Chunk 2 (Autorização), Chunk 3 (Auditoria)
+
+**Para dimensão COMPONENTE**:
+- Se uma seção ### descreve múltiplos componentes, divida por componente
+- Exemplo: "5.3 Sistema de Controle" → Chunk 1 (Sensor Temperatura), Chunk 2 (Válvula Pressão)
+
+**Para dimensão TÓPICO/CLÁUSULA**:
+- Mantenha cada tópico/cláusula como chunk independente
+- NÃO consolide cláusulas diferentes, mesmo se pequenas
+- Exemplo: "6.1 Políticas" → Chunk 1 (Cláusula 6.1.1), Chunk 2 (Cláusula 6.1.2)
+
+**Para dimensão CENÁRIO/PROBLEMA**:
+- Mantenha cada cenário como chunk independente
+- Exemplo: "7.2 Erros Comuns" → Chunk 1 (Erro 404), Chunk 2 (Erro 500)
+
+**Para dimensão CONCEITO/ENTRADA**:
+- Um chunk = Um conceito/termo + definição completa + exemplos
+- NÃO consolide termos diferentes
+
+**Princípio geral**:
+- Cada chunk deve responder a uma pergunta específica do usuário
+- Cada chunk deve ser semanticamente autocontido
+- Priorize granularidade semântica sobre uniformidade de tamanho
+
+***
+
+## Etapa 5 – Regras de tamanho (com exceções críticas)
+
+### Tamanho padrão (aplicável à maioria dos chunks)
+
+**Tamanho mínimo obrigatório:** 256 tokens por chunk
+
+**Tamanho alvo ideal:** Entre 256 e 512 tokens (aproximadamente 200-400 palavras)
+
+**Limite máximo absoluto:** 600 tokens
+
+### EXCEÇÕES CRÍTICAS - Contextos que NÃO podem ser fragmentados
+
+**NUNCA fragmente os seguintes tipos de conteúdo, mesmo se ultrapassarem 600 tokens:**
+
+1. **Blocos de código completos**
+   - Limite estendido: até 1000 tokens
+   - Mantenha função/classe/módulo inteiro
+   - Não quebre no meio de estruturas sintáticas
+
+2. **Procedimentos de segurança críticos**
+   - Limite estendido: até 800 tokens
+   - Sequências numeradas obrigatórias (ex: 15 passos de desligamento de emergência)
+   - Avisos de segurança com contexto dependente
+
+3. **Tabelas técnicas com parâmetros interdependentes**
+   - Limite estendido: até 800 tokens
+   - Tabelas de especificações, tolerâncias, parâmetros
+   - Se >800 tokens, quebre por grupos lógicos de linhas e repita o cabeçalho
+
+4. **Fórmulas matemáticas/químicas com derivações**
+   - Limite estendido: até 700 tokens
+   - Mantenha dedução completa
+
+5. **Procedimentos legais ou contratuais**
+   - Limite estendido: até 800 tokens
+   - Cláusulas com subcláusulas interdependentes
+
+**Marcação**: Se usar exceção, adicione nos metadados:
+```
+[EXCEÇÃO_TAMANHO: Sim - Código completo / Procedimento de segurança / Tabela técnica / Fórmula / Legal]
+[TAMANHO: XXX tokens (exceção aplicada)]
+```
+
+### Tratamento de chunks pequenos (<256 tokens)
+
+**NÃO consolide chunks pequenos quando representam**:
+- Comandos/funções distintas em manuais técnicos
+- Cláusulas legais independentes
+- Componentes físicos separados
+- Entradas de FAQ ou glossário
+- Conceitos tecnicamente distintos
+
+**Estratégia de enriquecimento** (preferencial à consolidação):
+
+**Opção 1 - Enriquecimento contextual**:
+- Adicionar exemplos de uso do documento original
+- Incluir notas explicativas existentes na mesma seção
+- Expandir com observações, alertas ou avisos relacionados
+- Adicionar contexto da seção ### sem misturar conceitos
+
+**Opção 2 - Consolidação criteriosa** (apenas quando semanticamente coeso):
+- Consolidar SOMENTE se os chunks são do mesmo tipo e intimamente relacionados
+- Exemplo válido: "Gestor homologa férias" + "Gestor homologa ajustes" = "Gestor - Homologações"
+- Exemplo INVÁLIDO: "git commit" + "git push" (são comandos distintos buscáveis separadamente)
+
+**Opção 3 - Preservação de contexto hierárquico**:
+- Repetir literalmente o parágrafo introdutório da seção ### completa
+- Incluir definições de termos-chave mencionados no chunk
+
+**NUNCA crie um chunk com menos de 256 tokens, exceto para**:
+- FAQs (mínimo: 100 tokens)
+- Glossários (mínimo: 80 tokens)
+- Comandos técnicos únicos (mínimo: 150 tokens)
+
+***
+
+## Etapa 6 – Regras de sobreposição (overlap)
+
+### Quando aplicar overlap (OBRIGATÓRIO)
+
+**Aplicar overlap de 10-15% entre chunks consecutivos quando**:
+- Fazem parte do mesmo fluxo/processo sequencial
+- Pertencem à mesma seção ### com etapas dependentes
+- Representam workflow com múltiplos atores em sequência
+- São partes 1, 2, 3... de um mesmo procedimento dividido por tamanho
+
+**Exemplo**: "Servidor solicita" → "Gestor aprova" → "RH processa" = APLICAR OVERLAP entre todos
+
+### Quando NÃO aplicar overlap (EXCEÇÕES)
+
+**NÃO aplicar overlap quando**:
+- Chunks são de seções ### completamente diferentes (ex: 3.1 vs 3.2)
+- Representam conceitos independentes (comandos API, cláusulas legais, componentes)
+- São entradas de FAQ ou glossário
+- São chunks de troubleshooting (cada erro é independente)
+- Contêm avisos de segurança críticos (não duplicar alertas)
+- Primeiro chunk de uma nova seção ###
+
+**Marcação**: 
+```
+[OVERLAP: Não - Primeiro chunk / Conceitos independentes / FAQ / Glossário / Seção diferente]
+```
+
+### Como implementar overlap (processo passo a passo)
+
+1. **Identifique chunks consecutivos** que pertencem ao mesmo fluxo
+2. **Copie as últimas 3-5 sentenças completas** do Chunk N
+   - Aproximadamente 40-60 tokens (10-15% de um chunk de 400 tokens)
+   - Sempre sentenças completas, nunca fragmentadas
+3. **Cole no INÍCIO do Chunk N+1**, após metadados e títulos hierárquicos
+4. **Marque**: `[OVERLAP: Sim]` no Chunk N+1
+5. **Preserve formatação**: Mantenha negrito, itálico, listas se presentes
+
+**Exemplo prático**:
+```
+Chunk N (final):
+[...conteúdo...]
+O gestor deve analisar em até 5 dias. Após aprovação, o pedido segue para RH. O RH verificará os saldos disponíveis.
+
+Chunk N+1 (início com overlap):
+[Metadados]
+### Título
+
+O gestor deve analisar em até 5 dias. Após aprovação, o pedido segue para RH. O RH verificará os saldos disponíveis.
+
+[Novo conteúdo específico do RH...]
+```
+
+***
+
+## Etapa 7 – Estruturas especiais (FAQ, Glossário, Tabelas)
+
+### FAQs
+
+**Regras específicas**:
+- Um chunk = Uma pergunta + resposta completa
+- Tamanho mínimo: 100 tokens (exceção ao mínimo de 256)
+- Overlap: Não aplicar
+- Título do chunk: A própria pergunta
+
+**Metadados adicionais**:
+```
+[TIPO_ESTRUTURA: FAQ]
+[PERGUNTA: {Texto literal da pergunta}]
+[DIMENSÃO_PRIMÁRIA: Cenário/Problema]
+[TAMANHO: XXX tokens (FAQ - exceção)]
+[OVERLAP: Não - Entradas independentes]
+```
+
+### Glossários
+
+**Regras específicas**:
+- Um chunk = Um termo + definição + exemplos + referências
+- Tamanho mínimo: 80 tokens (exceção)
+- Overlap: Não aplicar
+- Título do chunk: O termo definido
+
+**Metadados adicionais**:
+```
+[TIPO_ESTRUTURA: Glossário]
+[TERMO: {Termo definido}]
+[DIMENSÃO_PRIMÁRIA: Conceito/Entrada]
+[TAMANHO: XXX tokens (Glossário - exceção)]
+[OVERLAP: Não - Entradas independentes]
+```
+
+### Tabelas de Referência Técnica
+
+**Regras específicas**:
+- Manter tabela completa em um chunk quando possível
+- Se >600 tokens, quebrar por grupos lógicos de linhas (não arbitrariamente)
+- Repetir cabeçalho completo em cada chunk de tabela fragmentada
+- Overlap: Apenas o cabeçalho, não linhas de dados
+
+**Metadados adicionais**:
+```
+[TIPO_ESTRUTURA: Tabela Técnica]
+[TABELA_FRAGMENTADA: Sim/Não]
+[GRUPO_LINHAS: {ex: Linhas 1-20 de 50}]
+```
+
+### Blocos de Código
+
+**Regras específicas**:
+- Manter função/classe/módulo completo (até 1000 tokens)
+- Se código de exemplo, manter exemplo completo
+- Incluir comentários originais do código
+- Não aplicar overlap entre blocos de código de funções diferentes
+
+**Metadados adicionais**:
+```
+[TIPO_ESTRUTURA: Código]
+[LINGUAGEM: {Python/Java/SQL/etc}]
+[ENTIDADE_CÓDIGO: {Nome da função/classe/módulo}]
+[EXCEÇÃO_TAMANHO: Sim - Código completo]
+```
+
+***
+
+## Regras gerais (invioláveis)
+
+Não resumir.
+Não interpretar.
+Não explicar por sua conta.
+Não comentar.
+Não editorializar.
+Não adicionar frases de abertura ou encerramento próprias.
+Não substituir palavras por sinônimos.
+Não reorganizar frases internamente.
+Não usar separadores visuais (---) para indicar chunks.
+
+**NUNCA crie chunks com menos de 256 tokens** (exceto estruturas especiais listadas).
+**SEMPRE implemente overlap de 10-15%** entre chunks consecutivos do mesmo fluxo (exceto estruturas independentes listadas).
+
+Retorne apenas os chunks finais, em texto limpo, cada um iniciado explicitamente por seu título correspondente.
+
+***
+
+## Checklist de validação pré-entrega
+
+Antes de retornar os chunks, verifique mentalmente:
+
+- [ ] Dimensão primária do documento foi identificada corretamente
+- [ ] Nenhum chunk tem menos de 256 tokens (exceto estruturas especiais com justificativa)
+- [ ] Chunks de 256-512 tokens representam pelo menos 60% do total
+- [ ] Chunks consecutivos do mesmo fluxo têm overlap de 3-5 sentenças
+- [ ] Campo [OVERLAP] está corretamente preenchido e justificado
+- [ ] Campo [TAMANHO] reflete contagem real aproximada
+- [ ] Blocos de código, tabelas e procedimentos críticos estão íntegros
+- [ ] Texto é 100% literal do documento original
+- [ ] Cada chunk responde a uma pergunta específica de forma autocontida
+- [ ] Estruturas especiais (FAQ, glossário, código) têm metadados adicionais
+- [ ] Exceções de tamanho estão marcadas e justificadas
+- [ ] CHUNKS_RELACIONADOS mapeia corretamente o workflow quando aplicável
+
+***
+
+## Objetivo
+
+Gerar um corpus textual canônico, fiel ao documento original, estruturado em chunks semanticamente isolados e granulares, com hierarquia preservada, tamanho otimizado para RAG (mínimo 256 tokens, ideal 256-512 tokens com exceções justificadas), sobreposição contextual obrigatória de 10-15% entre chunks consecutivos do mesmo fluxo, tratamento especializado para estruturas técnicas (código, tabelas, segurança), e pronto para indexação, geração de embeddings e uso direto em pipelines de RAG auditáveis em qualquer tipo de documentação técnica ou operacional, sem necessidade de revisão manual.
+
+***
+
+## Metadados (estrutura obrigatória)
+
+No início de cada chunk, os seguintes metadados deverão ser incluídos:
+
+```
+[TIPO: Documento/Manual/API/Política/Procedimento/Referência]
+[FONTE: {Nome do arquivo original}]
+[SEÇÃO: {Seção a qual o chunk faz parte}]
+[PÁGINA: {Número da página de onde o chunk foi extraído, se aplicável}]
+[DIMENSÃO_PRIMÁRIA: {Ator/Funcionalidade/Componente/Tópico/Cenário/Conceito}]
+[ENTIDADE: {Valor específico - ex: Servidor, API REST, Motor, Cláusula 5.1, Erro 404, Termo X}]
+[TEMA: {Tema sobre o qual o chunk fala}]
+[CONTEXTO_HIERÁRQUICO: {Ex: "Manual > Seção Principal > Subseção > Tópico"}]
+[CHUNKS_RELACIONADOS: {IDs ou nomes dos chunks relacionados no workflow/referências cruzadas}]
+[TIPO_ESTRUTURA: {Normal/FAQ/Glossário/Código/Tabela/Procedimento Segurança} - quando aplicável]
+[TAMANHO: {Número aproximado de tokens}]
+[EXCEÇÃO_TAMANHO: {Sim/Não - Se Sim, justificar: Código/Segurança/Tabela/Fórmula/Legal}]
+[OVERLAP: {Sim/Não - Se Não em chunk consecutivo, justificar}]
+[NOME CHUNK: {Nome curto identificador do chunk}]
+[NOME ARQUIVO CHUNK: {Nome do arquivo, numerado: 01-nome-chunk.txt}]
+```
+
+### Estrutura após os metadados:
+
+```
+# [título do documento]
+## [seção principal]
+### [o chunk propriamente dito - pode incluir sufixo descritivo]
+
+[Se OVERLAP: Sim → Inicia com 3-5 sentenças repetidas do chunk anterior]
+
+[Conteúdo textual literal extraído do documento]
+[Preservar blocos de código, tabelas, listas numeradas integralmente]
+
+[Se chunk faz parte de fluxo: as últimas 3-5 sentenças serão repetidas no próximo chunk]
+```
+
+***
+
+## Exemplos de aplicação por tipo de documento
+
+### Manual Administrativo
+- DIMENSÃO_PRIMÁRIA: Ator
+- ENTIDADE: Servidor, Gestor, RH
+- Overlap: Sim (workflows sequenciais)
+
+### Manual Técnico (Software)
+- DIMENSÃO_PRIMÁRIA: Funcionalidade
+- ENTIDADE: API REST, Autenticação, Logging
+- Overlap: Não (APIs independentes) ou Sim (fluxo de integração)
+- TIPO_ESTRUTURA: Código (quando aplicável)
+
+### Manual de Equipamento
+- DIMENSÃO_PRIMÁRIA: Componente
+- ENTIDADE: Motor, Painel, Sensor
+- Overlap: Sim (procedimentos sequenciais) ou Não (componentes independentes)
+- EXCEÇÃO_TAMANHO: Sim - Procedimento de segurança
+
+### Manual de Políticas
+- DIMENSÃO_PRIMÁRIA: Tópico
+- ENTIDADE: Cláusula 5.1, Política de Privacidade
+- Overlap: Não (cláusulas independentes)
+- EXCEÇÃO_TAMANHO: Sim - Legal (quando cláusula extensa)
+
+### Troubleshooting
+- DIMENSÃO_PRIMÁRIA: Cenário
+- ENTIDADE: Erro 404, Falha de Conexão
+- Overlap: Não (cenários independentes)
+- TIPO_ESTRUTURA: FAQ (se formato pergunta-resposta)
+
+

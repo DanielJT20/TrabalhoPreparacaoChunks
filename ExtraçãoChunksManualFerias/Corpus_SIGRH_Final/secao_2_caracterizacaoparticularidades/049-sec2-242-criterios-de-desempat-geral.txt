@@ -1,0 +1,71 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.2 Critérios de desempate para escala de férias nos meses de Janeiro e Fevereiro]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4.2 Critérios de desempate para escala de férias nos meses de Janeiro e Fevereiro]
+[CHUNKS_RELACIONADOS: 048 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 265 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 049-sec2-242-criterios-de-desempat-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4.2 Critérios de desempate para escala de férias nos meses de Janeiro e Fevereiro
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Para a elaboração da escala de férias a serem usufruídas nos meses de janeiro e fevereiro deve-
+se, obrigatoriamente, observar a regra da proporcionalidade, que restringe o quantitativo de 
+servidores que podem usufruir férias neste período. 
+ 
+O cálculo para aplicação da regra da proporcionalidade é efetuado pela soma do número de 
+servidores em exercício, comissionados e em situação de convocação e a disposição com ônus 
+para o destino lotados no órgão/entidade, dividido, obrigatoriamente, na proporção máxima de 
+3/12 (três doze avos) para usufruir férias em janeiro é de 6/12 (seis doze avos) para usufruir 
+férias em fevereiro. 
+ 
+Exemplo:  Se no órgão/entidade há 600 servidores ativos em exercício, somente poderão usufruir 
+férias em janeiro e fevereiro o seguinte quantitativo de servidores: 
+ 
+JANEIRO = 600 x 3/12 = 150 servidores 
+ 
+FEVEREIRO = 600 x 6/12 = 300 servidores 
+ 
+
+
+Quando o número de servidores optantes por férias nos meses de janeiro e fevereiro exceder ao 
+limite da proporcionalidade estabelecida para o órgão/entidade, deverão ser observados como 
+critérios pra concessão as seguintes regras de prioridade: 
+ 
+1º Completar 75 (setenta e cinco) anos, em razão da aposentadoria compulsória; 
+ 
+7 
+ 
+2º Já tiver os requisitos para aposentadoria com o devido processo protocolado; 
+ 
+3º Maior número de dependentes menores de 14 (quatorze) anos de idade; 
+ 
+4º Maior tempo de serviço público estadual; e 
+ 
+5º Assiduidade. 
+ 
+Em caso de empate nos critérios estabelecidos, caberá ao gestor imediato decidir, em comum 
+acordo com os servidores envolvidos, sendo vedado o sorteio como critério para a concessão de 
+férias. 
+ 
+O critério de maior número de dependentes menores de 14 (quatorze) anos de idade, será 
+aplicado para a escala de férias do mês de julho, em razão de coincidir com o recesso escolar. 
+ 
+Para garantir a rotatividade, os servidores que tenham solicitado férias para usufruto em janeiro ou 
+fevereiro, mas não tenham sido contemplados nos dois anos anteriores, terão preferência sobre 
+os demais. 
+ 
+Integram, preferencialmente, a escala de férias dos meses que coincidam com o recesso escolar 
+(junho e julho), os servidores que estejam afastados para cursar pós-graduação em período não 
+integral.

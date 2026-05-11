@@ -1,0 +1,36 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4 Escala de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4 Escala de Férias]
+[CHUNKS_RELACIONADOS: 046 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 130 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 047-sec2-24-escala-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4 Escala de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+É facultado o gozo de férias em 2 (dois) períodos, não inferiores a 10 (dez) dias consecutivos.  
+ 
+
+
+A programação do usufruto das férias regulamentares será realizada por meio do Portal de 
+Serviços do SIGRH, sob a responsabilidade do servidor interessado e controle do gestor imediato, 
+conforme prazo estabelecido pelo Setorial/Seccional de Gestão de Pessoas do órgão ou entidade 
+e em conformidade com as orientações estabelecidas na Instrução Normativa de Férias e neste 
+Manual. 
+ 
+Compete ao gestor imediato, em conjunto com os seus servidores, definir a escala de férias, de 
+forma a conciliar o interesse da Administração Pública e do servidor, considerando, 
+obrigatoriamente, os critérios de proporcionalidade e de desempate estabelecidos em Instrução 
+Normativa e replicados neste Manual.

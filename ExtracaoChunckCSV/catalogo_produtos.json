@@ -1,0 +1,577 @@
+[
+    {
+        "sku": "ELT-001,\"Notebook Ultrabook 14\"\" Core i7\",Eletrônicos,Notebooks,Dell,Inspiron 14 7420,\"Notebook ultrafino 14\"\", Intel Core i7-1255U, 16GB RAM, SSD 512GB, Win11\",\"Notebook Dell Inspiron 14 7420 com processador Intel Core i7-1255U de 12ª geração, 16GB de memória RAM DDR5, SSD NVMe 512GB, tela FHD 1920x1080 com antiglare, bateria 54Wh, Wi-Fi 6 e Bluetooth 5.2. Sistema operacional Windows 11 Home. Ideal para produtividade corporativa e uso educacional.\",\"4299,9\",\"3649,9\",18,un,\"1,62\",32x23x1.8 cm,Prata,12 meses,Dell Brasil,7891234560001,\"notebook,ultrabook,i7,dell,inspiron,windows11,ssd,produtividade\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-002,\"Monitor LED 27\"\" 4K IPS\",Eletrônicos,Monitores,LG,27UK850-W,\"Monitor 27\"\" 4K UHD IPS, 60Hz, HDR10, USB-C 60W, altura ajustável\",\"Monitor LG 27UK850-W com painel IPS 4K (3840x2160), taxa de atualização 60Hz, suporte HDR10, cobertura 99% sRGB, entrada USB-C com carregamento 60W, 2x HDMI 2.0, 1x DisplayPort 1.4. Base com ajuste de altura, inclinação e rotação. Certificação VESA 100x100mm.\",2199,1899,25,un,\"6,5\",61x36x22 cm,Branco/Prata,24 meses,LG Electronics,7891234560002,\"monitor,4k,ips,uhd,hdmi,usb-c,hdr,lgmonitor,home-office\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-003,Teclado Mecânico Gamer RGB,Periféricos,Teclados,Redragon,K552 Kumara,\"Teclado mecânico TKL, switch Red, retroiluminação RGB, anti-ghosting 26 teclas\",\"Teclado mecânico Redragon K552 no layout TKL (tenkeyless) com switches Red lineares, retroiluminação RGB personalizável com 18 modos de iluminação, anti-ghosting completo em 26 teclas, estrutura em alumínio escovado, cabo USB trançado removível 1.8m, compatível com Windows e Mac.\",\"359,9\",\"299,9\",42,un,\"0,87\",35x13x3.5 cm,Preto/RGB,12 meses,Redragon Brasil,7891234560003,\"teclado,mecânico,gamer,rgb,redragon,tkl,switch-red\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-004,Mouse Sem Fio Ergonômico,Periféricos,Mouses,Logitech,MX Master 3S,\"Mouse sem fio 8000 DPI, scroll MagSpeed, conexão Bluetooth e USB Dongle, recarregável\",\"Mouse Logitech MX Master 3S com sensor óptico de 8000 DPI, tecnologia de scroll MagSpeed eletromagnético, conectividade Bluetooth 5.0 e receptor USB Unifying. Bateria recarregável via USB-C com autonomia de 70 dias. Projetado para produtividade avançada com 7 botões programáveis e suporte nativo para múltiplos dispositivos (Easy Switch).\",\"599,9\",\"519,9\",31,un,\"0,14\",12.6x8.5x4.8 cm,Grafite,24 meses,Logitech do Brasil,7891234560004,\"mouse,sem-fio,ergonomico,logitech,mx-master,bluetooth,home-office\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ARM-001,SSD Externo 1TB USB 3.2,Armazenamento,SSDs Externos,Samsung,T7 Shield,\"SSD externo portátil 1TB USB 3.2 Gen2, até 1050MB/s leitura, IP65, choque resistente\",\"SSD portátil Samsung T7 Shield com capacidade 1TB, interface USB 3.2 Gen2 (10Gbps), velocidade de leitura sequencial de até 1.050 MB/s e escrita de até 1.000 MB/s. Proteção IP65 contra poeira e respingos, resistência a quedas de até 3 metros. Compatível com PC, Mac, Android e consoles. Inclui cabos USB-C para C e USB-C para A.\",\"689,9\",\"599,9\",54,un,\"0,098\",9.8x5.7x1.4 cm,Bege,36 meses,Samsung Brasil,7891234560005,\"ssd,externo,1tb,samsung,t7,usb3.2,backup,portátil,ip65\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ARM-002,Pendrive 64GB USB-A 3.0,Armazenamento,Pendrives,SanDisk,Ultra Flair,\"Pendrive 64GB USB 3.0, até 150MB/s leitura, design metal compacto\",\"Pendrive SanDisk Ultra Flair 64GB com interface USB 3.0 compatível com USB 2.0. Velocidade de leitura de até 150 MB/s. Corpo em metal polido compacto com tampa protetora. Compatível com Windows, Mac e sistemas Linux. Ideal para transferência rápida de arquivos e backup cotidiano.\",\"79,9\",\"64,9\",210,un,\"0,011\",6.1x2.1x0.9 cm,Prata,5 anos,SanDisk Brasil,7891234560006,\"pendrive,usb3.0,sandisk,64gb,flash,backup,portátil\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ARM-003,HD Externo 2TB USB 3.0,Armazenamento,HDs Externos,Seagate,Backup Plus Slim,\"HD externo 2TB, USB 3.0, design ultrafino 9.6mm, inclui 2 anos de proteção Mylio\",HD externo Seagate Backup Plus Slim 2TB com espessura de apenas 9.6mm e interface USB 3.0 (retrocompatível USB 2.0). Velocidade de transferência de até 120 MB/s. Inclui acesso a 2 anos de proteção de fotos Mylio Create e 4 meses de plano Adobe Creative Cloud Photography. Sistema de backup automático compatível com Windows e Mac.,\"349,9\",\"299,9\",38,un,\"0,148\",11.5x8.0x0.96 cm,Preto,24 meses,Seagate Brasil,7891234560007,\"hd,externo,2tb,seagate,backup,usb3.0,slim,armazenamento\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "RED-001,Roteador Wi-Fi 6 AX3000,Redes,Roteadores,TP-Link,Archer AX55,\"Roteador Wi-Fi 6 dual-band AX3000, OFDMA, MU-MIMO 4x4, 4 antenas externas\",\"Roteador TP-Link Archer AX55 com tecnologia Wi-Fi 6 (802.11ax) dual-band, velocidade combinada de 3000 Mbps (574 Mbps em 2.4GHz + 2402 Mbps em 5GHz). Suporte a OFDMA, MU-MIMO 4x4, TWT para eficiência energética de dispositivos IoT. 4 antenas externas de alto ganho, 4 portas Gigabit LAN, 1 porta WAN Gigabit, USB 3.0 para compartilhamento de arquivos.\",\"599,9\",519,22,un,\"0,78\",25.8x16.2x4.0 cm,Preto,24 meses,TP-Link Brasil,7891234560008,\"roteador,wifi6,ax3000,tp-link,mesh,gigabit,home-network\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "RED-002,Switch Gerenciável 8 Portas PoE,Redes,Switches,Cisco,SG110D-08HP,\"Switch não gerenciável 8 portas PoE+ Gigabit, 60W total, QoS automático\",\"Switch Cisco SG110D-08HP com 8 portas PoE+ Gigabit (10/100/1000 Mbps), orçamento PoE total de 60W para alimentação de câmeras IP, APs e telefones VoIP. QoS automático de voz prioriza tráfego sensível a latência. Design fanless para operação silenciosa. Montagem em rack ou mesa. Plug-and-play sem necessidade de configuração.\",899,\"769,9\",14,un,\"0,91\",15.8x10.1x2.8 cm,Cinza,36 meses,Cisco Systems BR,7891234560009,\"switch,poe,gigabit,cisco,redes,câmera-ip,voip\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "PER-001,Webcam Full HD 1080p,Periféricos,Webcams,Logitech,C920s HD Pro,\"Webcam Full HD 1080p 30fps, campo visual 78°, microfone duplo com redução de ruído, obturador privacidade\",\"Webcam Logitech C920s HD Pro com resolução Full HD 1080p a 30fps (HD 720p a 60fps). Campo visual de 78° com foco automático. Microfone duplo omnidirecional com redução de ruído. Obturador de privacidade integrado. Tecnologia de correção automática de luz em ambientes escuros. Compatível com Zoom, Teams, Meet, Skype. Plug-and-play via USB.\",\"549,9\",\"479,9\",29,un,\"0,162\",8.6x4.5x4.6 cm,Preto,24 meses,Logitech do Brasil,7891234560010,\"webcam,1080p,logitech,c920,videoconferência,home-office,zoom,teams\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "PER-002,Headset USB com Cancelamento de Ruído,Periféricos,Headsets,Jabra,Evolve2 30 SE,\"Headset USB estéreo, microfone com cancelamento de ruído, certificado Microsoft Teams\",\"Headset Jabra Evolve2 30 SE com conexão USB-A e USB-C, microfone com cancelamento de ruído em 2 etapas (foco de voz e redução passiva de ruído). Drivers de 28mm com resposta de frequência 20Hz–20kHz. Certificado para Microsoft Teams, Zoom e Google Meet. Almofadas de memória confortáveis para uso prolongado. Controles de volume, mudo e resposta/encerrar chamada no cabo.\",\"699,9\",\"599,9\",16,un,\"0,172\",16x9x5 cm,Preto,24 meses,GN Audio Brasil,7891234560011,\"headset,usb,cancelamento-ruído,jabra,teams,home-office,videoconferência\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "PER-003,Hub USB-C 7 em 1,Periféricos,Hubs e Adaptadores,Baseus,BS-OH040,\"Hub USB-C 7 em 1: HDMI 4K, 3x USB-A 3.0, SD/MicroSD, PD 100W\",\"Hub multiportas Baseus 7 em 1 com entrada USB-C. Saída HDMI 4K@30Hz, 3 portas USB-A 3.0 (5Gbps), leitor de cartão SD e MicroSD simultâneo, pass-through de energia USB-C PD 100W. Gabinete em alumínio com dissipação passiva de calor. Cabo integrado de 20cm. Compatível com MacBook, notebooks Windows e iPad Pro.\",\"189,9\",\"159,9\",88,un,\"0,082\",10.8x3.5x1.2 cm,Cinza Espacial,12 meses,Baseus Brasil,7891234560012,\"hub,usb-c,hdmi,4k,adaptador,baseus,macbook,dongle,multiportas\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "IMP-001,Impressora Multifuncional Ink Tank,Impressão,Impressoras,Epson,EcoTank ET-2850,\"Impressora multifuncional Wi-Fi, tanque de tinta, sem cartucho, até 4500 pgs preto\",\"Impressora multifuncional Epson EcoTank ET-2850 com sistema de tanque de tinta recarregável (sem cartucho). Imprime, digitaliza e copia. Conectividade Wi-Fi Direct, Ethernet e USB. Velocidade: 10 ipm (preto) e 5 ipm (colorido). Resolução de impressão 5760x1440 dpi. Rendimento: até 4500 páginas preto e 7500 colorido por recarga. Painel touchscreen 2.4\"\".\",1899,1599,11,un,\"6,8\",37.5x34.7x19.3 cm,Branco,12 meses,Epson do Brasil,7891234560013,\"impressora,multifuncional,ecotank,epson,sem-cartucho,wi-fi,escritório\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "CAB-001,Cabo HDMI 2.1 2m 8K,Cabos,HDMI,Multilaser,CA316,\"Cabo HDMI 2.1 ultra-alta velocidade 48Gbps, 8K@60Hz, 4K@120Hz, eARC, VRR, 2 metros\",\"Cabo HDMI 2.1 Multilaser de 2 metros com largura de banda de 48Gbps. Suporta resoluções 8K@60Hz, 4K@120Hz e 4K@144Hz. Compatível com eARC, VRR (Variable Refresh Rate) e ALLM (Auto Low Latency Mode). Revestimento trançado de nylon, conectores folheados a ouro para resistência à corrosão. Totalmente compatível com PS5, Xbox Series X e monitores de alta taxa de atualização.\",\"89,9\",\"69,9\",145,un,\"0,185\",2m comprimento,Preto,6 meses,Multilaser SA,7891234560014,\"cabo,hdmi,8k,4k,ps5,xbox,hdmi2.1,home-theater\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "CAB-002,Cabo USB-C para USB-C 100W 2m,Cabos,USB,Anker,A8856,\"Cabo USB-C PD 100W carga rápida, dados USB 3.1 Gen2 10Gbps, nylon trançado, 2m\",\"Cabo USB-C Anker de 2 metros com suporte a carregamento Power Delivery 100W (20V/5A). Transferência de dados USB 3.1 Gen2 até 10Gbps. Revestimento em nylon trançado premium resistente a mais de 30.000 dobras. Conectores com contatos folheados a ouro. Compatível com MacBook Pro/Air, iPad Pro, notebooks Windows e smartphones. Certificado USB-IF.\",\"119,9\",\"99,9\",97,un,\"0,09\",2m comprimento,Preto,18 meses,Anker Innovations,7891234560015,\"cabo,usb-c,100w,carregamento,anker,pd,macbook,dados\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ACS-001,Suporte Ergonômico para Notebook,Acessórios,Ergonomia,Multilaser,AC327,\"Suporte notebook alumínio 6 ângulos ajustáveis, ventilação passiva, até 17\"\"\",\"Suporte ergonômico para notebook Multilaser em alumínio anodizado com 6 posições de inclinação (15° a 60°). Pés antiderrapantes, elevação de até 18cm reduz tensão cervical. Compatível com notebooks de 10\"\" a 17\"\". Ventilação passiva evita superaquecimento. Design foldable para transporte. Capacidade de carga até 8kg.\",\"149,9\",\"119,9\",63,un,\"0,42\",27x20x1.5 cm,Prata,6 meses,Multilaser SA,7891234560016,\"suporte,notebook,ergonômico,alumínio,home-office,saúde,cervical\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ACS-002,Mousepad Gamer XL 900x400mm,Acessórios,Mousepads,HyperX,Fury S XL,\"Mousepad gamer extra-largo 900x400mm, superfície Speed, base antiderrapante 4mm\",Mousepad HyperX Fury S XL com dimensões 900x400mm (largura de mesa completa). Superfície de tecido Speed de microweave otimizada para deslizamento rápido e preciso. Base de borracha 4mm 100% antiderrapante. Bordas costuradas para durabilidade. Compatível com todos os tipos de mouse (óptico e laser). Lavável à mão com água fria.,\"179,9\",\"149,9\",51,un,\"0,62\",90x40x0.4 cm,Preto,6 meses,Kingston Technology BR,7891234560017,\"mousepad,gamer,xl,hyperx,rgb,setup,desk\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-005,\"Tablet 10.9\"\" Wi-Fi 256GB\",Eletrônicos,Tablets,Samsung,Galaxy Tab S9 FE,\"Tablet 10.9\"\" FHD+, Exynos 1380, 6GB RAM, 256GB, S-Pen inclusa, IP68\",\"Tablet Samsung Galaxy Tab S9 FE com tela LCD TFT 10.9\"\" FHD+ (2304x1440), processador Exynos 1380 octa-core, 6GB RAM e 256GB de armazenamento interno (expansível via microSD até 1TB). Câmera traseira 8MP e frontal 10MP com IA. Bateria 8000mAh com carregamento rápido 45W. S-Pen incluída. Certificação IP68 à prova d'água e poeira. Android 13 com One UI 5.1.\",2599,2199,19,un,\"0,523\",25.7x16.5x0.61 cm,Grafite,12 meses,Samsung Brasil,7891234560018,\"tablet,samsung,galaxy,s-pen,android,10.9,ip68,educação\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-006,Smartwatch com GPS e SpO2,Eletrônicos,Wearables,Garmin,Forerunner 255,\"Smartwatch GPS esportivo, SpO2, FC, sono, bateria 14 dias, Garmin Pay\",\"Smartwatch Garmin Forerunner 255 com GPS multifrequência, monitor de frequência cardíaca e oximetria (SpO2) no pulso, monitoramento avançado de sono com HRV. Autonomia de até 14 dias no modo smartwatch e até 30 horas com GPS ativo. Perfis de atividade: corrida, ciclismo, natação (5ATM), trilha, treinamento funcional. Garmin Pay, notificações de smartphone e conectividade Bluetooth/ANT+.\",\"2199,9\",\"1899,9\",9,un,\"0,049\",4.6x4.6x1.27 cm,Cinza/Azul,12 meses,Garmin Brasil,7891234560019,\"smartwatch,garmin,gps,corrida,esporte,spO2,frequência-cardíaca,wearable\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "SFT-001,Licença Office 365 Personal 1 ano,Software,Licenças,Microsoft,Microsoft 365 Personal,\"Assinatura anual Office 365 Personal: Word, Excel, PowerPoint, 1TB OneDrive, 1 dispositivo\",\"Assinatura Microsoft 365 Personal por 12 meses para 1 usuário. Inclui versões completas de Word, Excel, PowerPoint, Outlook, OneNote e Access (PC). Armazenamento em nuvem OneDrive de 1TB. Funcionalidades avançadas de IA com Microsoft Copilot. Atualizações automáticas sempre na versão mais recente. Válido para Windows, macOS, iOS e Android. Entrega via código de ativação por e-mail.\",\"299,9\",\"249,9\",999,lic,0,Digital,Digital,12 meses (renovável),Microsoft Brasil,7891234560020,\"office365,microsoft,word,excel,powerpoint,licença,software,onedrive\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "SFT-002,Antivírus Total Security 3 dispositivos 1 ano,Software,Segurança,Kaspersky,Total Security 2025,\"Antivírus + VPN + gerenciador senhas + controle parental, 3 dispositivos, 1 ano\",\"Kaspersky Total Security 2025 para 3 dispositivos por 12 meses. Inclui proteção antivírus em tempo real, firewall bidirecional, VPN segura (300MB/dia), gerenciador de senhas, cofre de arquivos criptografado AES-256, controle parental avançado e proteção de webcam. Compatível com Windows, Mac, Android e iOS. Nota AV-Test: 6/6 em proteção, desempenho e usabilidade.\",\"189,9\",\"149,9\",999,lic,0,Digital,Digital,12 meses,Kaspersky Lab,7891234560021,\"antivirus,kaspersky,segurança,vpn,licença,proteção,internet-security\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-007,Fonte Notebook Universal 90W USB-C,Eletrônicos,Fontes,Multilaser,BO370,\"Fonte notebook universal 90W USB-C PD, compatível com múltiplos fabricantes, viagem\",\"Fonte de alimentação universal Multilaser 90W com conector USB-C Power Delivery. Entrada bivolt automática (100-240V / 50-60Hz). Compatível com notebooks Dell, Lenovo, HP, Asus, Acer, Samsung, LG e Apple (USB-C). Inclui 10 conectores intercambiáveis para notebooks legados. Indicador LED de carga. Proteção contra sobrecarga, curto-circuito e sobretensão. Cabo destacável 1.5m.\",\"199,9\",\"169,9\",44,un,\"0,38\",14x8x3.2 cm,Preto,12 meses,Multilaser SA,7891234560022,\"fonte,notebook,universal,usb-c,90w,carregador,multilaser,viagem\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "RED-003,Adaptador Wi-Fi USB 3.0 AX1800,Redes,Adaptadores Wi-Fi,TP-Link,Archer TX20U,\"Adaptador Wi-Fi 6 USB 3.0 AX1800 dual-band, MU-MIMO, antena dobrável, WPA3\",\"Adaptador TP-Link Archer TX20U com Wi-Fi 6 (802.11ax) dual-band: 574 Mbps em 2.4GHz e 1201 Mbps em 5GHz. Interface USB 3.0 para transferência eficiente de dados. Suporte a MU-MIMO 2x2, OFDMA e WPA3. Antena dobrável de alto ganho. Compatível com Windows 7/8/10/11 e Mac OS X. Driver automático via CD ou download. Ideal para adicionar Wi-Fi 6 a desktops ou notebooks antigos.\",\"199,9\",\"169,9\",37,un,\"0,055\",9.5x3.0x2.0 cm,Preto,24 meses,TP-Link Brasil,7891234560023,\"adaptador,wifi6,usb,tp-link,ax1800,desktop,upgrade-rede\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ACS-003,Câmera de Segurança IP Indoor Wi-Fi,Acessórios,Câmeras IP,Intelbras,iM4 C,\"Câmera IP indoor Wi-Fi 4MP Full Color, visão noturna colorida, detecção de movimento IA, SD 128GB\",\"Câmera Intelbras iM4 C com sensor 4MP (2560x1440), tecnologia Full Color para visão noturna colorida 24h. Detecção de pessoas e movimentos via inteligência artificial com alertas no app. Conectividade Wi-Fi 2.4GHz. Suporte a cartão microSD até 128GB para gravação local. Ângulo visual 110°. Áudio bidirecional. Compatível com app iSIC, Amazon Alexa e Google Assistant.\",\"319,9\",\"269,9\",26,un,\"0,155\",7.3x7.3x12.4 cm,Branco,12 meses,Intelbras SA,7891234560024,\"câmera,segurança,ip,wi-fi,intelbras,4mp,indoor,vigilância,smart-home\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    },
+    {
+        "sku": "ELT-008,Caixa de Som Bluetooth 360° 30W,Eletrônicos,Áudio,JBL,Charge 5,\"Caixa som Bluetooth 5.1 30W, IP67, bateria 20h, carregamento de dispositivos USB\",Alto-falante portátil JBL Charge 5 com tecnologia Bluetooth 5.1 e potência de 30W RMS. Som 360° com tweeter integrado. Certificação IP67: à prova d'água e poeira. Bateria de lítio com autonomia de até 20 horas. Porta USB-A para carregamento de smartphones. JBL PartyBoost para sincronizar com outros dispositivos compatíveis. Disponível em 10 cores. Alça de transporte em silicone.,\"1199,9\",\"999,9\",34,un,\"0,96\",22.4x9.6x9.0 cm,Azul,12 meses,Harman do Brasil,7891234560025,\"caixa-som,bluetooth,jbl,charge5,ip67,portátil,praia,outdoor\",Ativo,2025-04-10,2025-04-10",
+        "nome": NaN,
+        "marca": NaN,
+        "modelo": NaN,
+        "categoria": "nan > nan",
+        "financeiro": {
+            "preco_original": 0.0,
+            "preco_promocional": 0.0,
+            "desconto_percentual": 0
+        },
+        "detalhes": {
+            "resumo": NaN,
+            "especificacoes_completas": NaN,
+            "garantia": NaN
+        },
+        "logistica": {
+            "estoque_atual": 0,
+            "peso_kg": 0.0,
+            "dimensoes": NaN
+        },
+        "tags": []
+    }
+]

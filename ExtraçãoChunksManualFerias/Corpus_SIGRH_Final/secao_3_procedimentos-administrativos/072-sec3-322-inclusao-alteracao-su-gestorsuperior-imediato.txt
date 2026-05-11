@@ -1,0 +1,30 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Gestor/Superior imediato]
+[TEMA: 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CHUNKS_RELACIONADOS: 071 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 14 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: gestorsuperior-imediato]
+[NOME ARQUIVO CHUNK: 072-sec3-322-inclusao-alteracao-su-gestorsuperior-imediato.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+O formulário (MLR-1) deve conter, obrigatoriamente, a nova data de usufruto e ser encaminhado 
+até o 5º (quinto) dia útil do mês anterior ao das férias programadas na escala vigente. Se a solicitação for de interrupção de férias, deverá ser efetuada durante o período de usufruto e, 
+além do formulário (MLR-1) preenchido e assinado, deve ser anexado ao processo o documento 
+que justificou a interrupção, como o documento de convocação, o despacho fundamentado do 
+gestor comprovando a imperiosa necessidade do serviço ou a certidão de nascimento/adoção, 
+conforme o caso. É de responsabilidade do servidor a observância dos prazos para alteração de férias, sob pena de 
+não receber a gratificação de férias antecipadamente ao usufruto. 14 
+ 
+
+- Ratificar a solicitação do servidor, assinando o formulário no SGPE.

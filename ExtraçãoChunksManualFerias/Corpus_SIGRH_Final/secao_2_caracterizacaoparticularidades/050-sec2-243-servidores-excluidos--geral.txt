@@ -1,0 +1,51 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e]
+[CHUNKS_RELACIONADOS: 049 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 258 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 050-sec2-243-servidores-excluidos--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e
+
+[CONTEÚDO_CONTINUIDADE]
+O critério de maior número de dependentes menores de 14 (quatorze) anos de idade, será 
+aplicado para a escala de férias do mês de julho, em razão de coincidir com o recesso escolar. Para garantir a rotatividade, os servidores que tenham solicitado férias para usufruto em janeiro ou 
+fevereiro, mas não tenham sido contemplados nos dois anos anteriores, terão preferência sobre 
+os demais. Integram, preferencialmente, a escala de férias dos meses que coincidam com o recesso escolar 
+(junho e julho), os servidores que estejam afastados para cursar pós-graduação em período não 
+integral. 
+
+Fevereiro 
+ 
+Excetuam-se da regra da proporcionalidade, desde que garantida a regular continuidade da 
+prestação de serviço público, os servidores: 
+ 
+- Em exercício nas unidades ou estabelecimentos de ensino da Secretaria de Estado da 
+Educação - SED e da Fundação Catarinense de Educação Especial - FCEE; 
+- Em exercício na Escola de Artes, da Fundação Catarinense de Cultura - FCC; 
+- Em exercício na Procuradoria Geral do Estado - PGE e nas Consultorias Jurídicas ou    
+  equivalentes dos órgãos e entidades, em razão da suspensão dos prazos processuais;  
+- Designados julgadores de processos fiscais, conselheiros titulares e suplentes das câmaras de  
+  julgamento, e servidores em exercício no Tribunal Administrativo Tributário, da Secretaria de  
+  Estado da Fazenda – SEF;  
+- Em exercício na Fundação Catarinense de Esporte – FESPORTE; 
+- Em exercício na Fundação Escola de Governo – ENA; 
+- Lotados e a disposição com ônus para o destino na Fundação Universidade do Estado de Santa  
+  Catarina – UDESC;  
+- Em exercício na Escola de Saúde Pública de Santa Catarina – ESPSC, da Secretaria de Estado  
+  da Saúde – SES; e 
+ 
+8 
+ 
+- Em exercício nas Coordenadorias Regionais de Educação e no Órgão Central da Secretaria de 
+Estado da Educação – SED.

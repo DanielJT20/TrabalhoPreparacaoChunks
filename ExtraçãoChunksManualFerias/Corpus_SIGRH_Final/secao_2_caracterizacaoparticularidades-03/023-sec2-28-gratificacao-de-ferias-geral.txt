@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.8 Gratificação de Férias ...............................................................................................................10]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.8 Gratificação de Férias ...............................................................................................................10]
+[CHUNKS_RELACIONADOS: 022 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 023-sec2-28-gratificacao-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.8 Gratificação de Férias ...............................................................................................................10
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

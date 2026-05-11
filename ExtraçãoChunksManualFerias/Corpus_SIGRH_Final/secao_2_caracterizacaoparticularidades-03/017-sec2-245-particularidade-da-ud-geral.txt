@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.5 Particularidade da UDESC .....................................................................................................08]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.4.5 Particularidade da UDESC .....................................................................................................08]
+[CHUNKS_RELACIONADOS: 016 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 017-sec2-245-particularidade-da-ud-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.4.5 Particularidade da UDESC .....................................................................................................08
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

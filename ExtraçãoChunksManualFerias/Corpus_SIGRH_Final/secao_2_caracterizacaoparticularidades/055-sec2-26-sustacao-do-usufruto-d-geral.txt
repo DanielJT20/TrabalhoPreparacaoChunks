@@ -1,0 +1,44 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.6 Sustação do Usufruto das Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.6 Sustação do Usufruto das Férias]
+[CHUNKS_RELACIONADOS: 054 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 158 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 055-sec2-26-sustacao-do-usufruto-d-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.6 Sustação do Usufruto das Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+A alteração da programação de férias deverá ser solicitada impreterivelmente até o quinto dia útil 
+do mês imediatamente anterior à data de início prevista na escala de férias. 
+ 
+
+
+Sustar é o ato de cancelar integralmente o usufruto não iniciado das férias, com estorno aos 
+cofres públicos dos valores recebidos pelo servidor, mediante autorização do gestor imediato. 
+ 
+A sustação poderá ocorrer de três formas: 
+ 
+I - A pedido do servidor, devidamente autorizada pela chefia imediata;  
+II - Decorrente de necessidade de inclusão, pela Diretoria de Saúde do Servidor, de registro de 
+afastamento do servidor com data de início igual ou anterior ao usufruto previsto das férias, 
+devidamente autorizado; e 
+III - A pedido do gestor imediato, em caso de necessidade de serviço, mediante justificativa 
+fundamentada. 
+ 
+ 
+9 
+ 
+A sustação sempre deverá ser solicitada e registrada até o início do usufruto previsto das férias, 
+quando deverá ser reprogramada a nova data de usufruto.

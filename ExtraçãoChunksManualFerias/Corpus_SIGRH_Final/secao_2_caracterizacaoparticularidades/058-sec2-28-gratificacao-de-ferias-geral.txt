@@ -1,0 +1,41 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.8 Gratificação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.8 Gratificação de Férias]
+[CHUNKS_RELACIONADOS: 057 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 109 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 058-sec2-28-gratificacao-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.8 Gratificação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+O policial civil não pode ser obrigado a interromper as férias, a não ser em virtude de urgente 
+necessidade de serviço, mediante convocação da autoridade competente. 
+ 
+O policial civil tem direito de gozar o saldo remanescente das férias interrompidas até o final do 
+período aquisitivo subsequente ao período em que ocorreu a suspensão, não sendo obrigado a 
+restituir o acréscimo constitucional de 1/3 (um terço) da remuneração já recebida. 
+ 
+
+
+A gratificação de férias corresponde ao acréscimo constitucional de 1/3 (um terço) do valor da 
+remuneração do mês de início do usufruto. 
+ 
+O pagamento da gratificação ocorrerá no mês anterior ao seu usufruto, sendo que no caso de 
+parcelamento das férias, a gratificação será paga no mês anterior ao primeiro período de férias. 
+ 
+Eventuais acertos em razão de acréscimos ou decréscimos de remuneração serão processados 
+na folha do mês do respectivo usufruto. 
+ 
+Não haverá o pagamento de duas gratificações de férias no mesmo mês.

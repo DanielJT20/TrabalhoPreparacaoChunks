@@ -1,0 +1,19 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.1 Período Aquisitivo .....................................................................................................................03]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.1 Período Aquisitivo .....................................................................................................................03]
+[CHUNKS_RELACIONADOS: 000 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Não]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 001-sec2-21-periodo-aquisitivo-03-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.1 Período Aquisitivo .....................................................................................................................03
+

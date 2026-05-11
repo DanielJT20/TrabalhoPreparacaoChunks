@@ -1,0 +1,27 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.8.1 Particularidade dos servidores da SED e da FCEE]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.8.1 Particularidade dos servidores da SED e da FCEE]
+[CHUNKS_RELACIONADOS: 058 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 49 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 059-sec2-281-particularidade-dos-s-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.8.1 Particularidade dos servidores da SED e da FCEE
+
+[CONTEÚDO_CONTINUIDADE]
+O pagamento da gratificação ocorrerá no mês anterior ao seu usufruto, sendo que no caso de 
+parcelamento das férias, a gratificação será paga no mês anterior ao primeiro período de férias. Eventuais acertos em razão de acréscimos ou decréscimos de remuneração serão processados 
+na folha do mês do respectivo usufruto. Não haverá o pagamento de duas gratificações de férias no mesmo mês. 
+
+Os servidores em exercício nas unidades escolares da rede estadual de ensino da Secretaria de 
+Estado da Educação - SED e na Fundação Catarinense de Educação Especial – FCEE 
+perceberão a gratificação de férias no mês de usufruto.

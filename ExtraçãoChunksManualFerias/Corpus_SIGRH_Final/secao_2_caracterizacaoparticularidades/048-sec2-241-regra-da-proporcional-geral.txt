@@ -1,0 +1,51 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.1 Regra da proporcionalidade para escala de férias nos meses de Janeiro e Fevereiro]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4.1 Regra da proporcionalidade para escala de férias nos meses de Janeiro e Fevereiro]
+[CHUNKS_RELACIONADOS: 047 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 176 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 048-sec2-241-regra-da-proporcional-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4.1 Regra da proporcionalidade para escala de férias nos meses de Janeiro e Fevereiro
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+A programação do usufruto das férias regulamentares será realizada por meio do Portal de 
+Serviços do SIGRH, sob a responsabilidade do servidor interessado e controle do gestor imediato, 
+conforme prazo estabelecido pelo Setorial/Seccional de Gestão de Pessoas do órgão ou entidade 
+e em conformidade com as orientações estabelecidas na Instrução Normativa de Férias e neste 
+Manual. 
+ 
+Compete ao gestor imediato, em conjunto com os seus servidores, definir a escala de férias, de 
+forma a conciliar o interesse da Administração Pública e do servidor, considerando, 
+obrigatoriamente, os critérios de proporcionalidade e de desempate estabelecidos em Instrução 
+Normativa e replicados neste Manual. 
+ 
+
+
+Para a elaboração da escala de férias a serem usufruídas nos meses de janeiro e fevereiro deve-
+se, obrigatoriamente, observar a regra da proporcionalidade, que restringe o quantitativo de 
+servidores que podem usufruir férias neste período. 
+ 
+O cálculo para aplicação da regra da proporcionalidade é efetuado pela soma do número de 
+servidores em exercício, comissionados e em situação de convocação e a disposição com ônus 
+para o destino lotados no órgão/entidade, dividido, obrigatoriamente, na proporção máxima de 
+3/12 (três doze avos) para usufruir férias em janeiro é de 6/12 (seis doze avos) para usufruir 
+férias em fevereiro. 
+ 
+Exemplo:  Se no órgão/entidade há 600 servidores ativos em exercício, somente poderão usufruir 
+férias em janeiro e fevereiro o seguinte quantitativo de servidores: 
+ 
+JANEIRO = 600 x 3/12 = 150 servidores 
+ 
+FEVEREIRO = 600 x 6/12 = 300 servidores

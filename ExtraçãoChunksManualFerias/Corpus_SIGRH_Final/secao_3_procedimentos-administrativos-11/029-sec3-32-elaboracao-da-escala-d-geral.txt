@@ -1,0 +1,24 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos ...............................................................................................11]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.2 Elaboração da escala de férias para os órgãos que não utilizam o Portal de Serviços do]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos ...............................................................................................11 > 3.2 Elaboração da escala de férias para os órgãos que não utilizam o Portal de Serviços do]
+[CHUNKS_RELACIONADOS: 028 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 2 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 029-sec3-32-elaboracao-da-escala-d-geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS ...............................................................................................11
+## 3.2 Elaboração da escala de férias para os órgãos que não utilizam o Portal de Serviços do
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+
+SIGRH .............................................................................................................................................12

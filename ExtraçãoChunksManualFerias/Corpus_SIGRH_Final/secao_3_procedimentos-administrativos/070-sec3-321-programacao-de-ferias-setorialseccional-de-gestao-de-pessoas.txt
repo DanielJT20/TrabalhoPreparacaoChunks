@@ -1,0 +1,67 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Setorial/Seccional de Gestão de Pessoas]
+[TEMA: 3.2.1 Programação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.1 Programação de Férias]
+[CHUNKS_RELACIONADOS: 069 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 343 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: setorialseccional-de-gestao-de-pessoas]
+[NOME ARQUIVO CHUNK: 070-sec3-321-programacao-de-ferias-setorialseccional-de-gestao-de-pessoas.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.1 Programação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+ 
+ 
+De março a dezembro, o gestor imediato, em conjunto com os seus servidores, deverá definir a 
+escala de férias, preenchendo o relatório “Prévia da Escala de Férias” e coletando a assinatura de 
+cada servidor.  
+ 
+Assinar e datar o relatório, a fim de ratificar a programação de férias dos servidores sob sua 
+responsabilidade. 
+ 
+Encaminhar para o Setorial/Seccional de Gestão de Pessoas, observando o prazo estipulado.  
+ 
+
+Conferir se os relatórios devolvidos estão corretamente preenchidos, assinados pelos respectivos 
+diretores/gerentes, se atendem aos critérios legais da proporcionalidade e se o saldo de férias é 
+devido. 
+ 
+Observar os seguintes procedimentos nos diligenciamentos: 
+ 
+ 
+Emitir a Transcrição Funcional do(a) servidor(a) no Sistema Integrado de Gestão de 
+Recursos Humanos - SIGRH – Cadastro – Vínculo – 02.Emitir Transcrição Funcional, 
+analisar em especial os itens 10 (Afastamentos) e 11 (Faltas Injustificadas), verificando se 
+os períodos aquisitivos de férias estão corretos e se o saldo para usufruto é devido. 
+ 
+13 
+ 
+ 
+Se forem verificadas situações que impliquem em ajustes relevantes nos períodos 
+aquisitivos de férias, deve ser autuado processo no SGPE para SEA/GEBEN/FER, 
+informando as inconsistências encontradas e as alterações solicitadas.  
+            *Em caso de dúvidas quanto aos afastamentos que impactam nos períodos aquisitivos de   
+            férias, consultar o item 2.1 deste Manual. 
+ Se os períodos aquisitivos estiverem corretos e o documento de solicitação estiver       
+assinado pelo servidor, gestor imediato e dentro dos limites da proporcionalidade, proceder 
+com o atendimento da solicitação, conforme descrito abaixo. 
+ 
+Registrar no sistema SIGRH, impreterivelmente, até o processamento parcial da folha de 
+pagamento de dezembro, no mínimo toda a programação referente ao usufruto das férias do mês 
+de janeiro. (Afastamentos – Férias – 05.Manter Programação Coletiva de Férias/Individual).  
+ 
+Registrar, impreterivelmente, até o processamento parcial da folha de pagamento do mês de 
+janeiro, no mínimo toda a programação referente ao usufruto das férias do mês de fevereiro. 
+ 
+Registrar, impreterivelmente, até o dia 31 (trinta e um) de janeiro, toda programação do usufruto 
+de férias referente aos meses de março a dezembro. 
+ 
+Arquivar o relatório.

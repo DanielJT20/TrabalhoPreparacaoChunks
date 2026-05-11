@@ -1,0 +1,35 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.5 Alteração da Programação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.5 Alteração da Programação de Férias]
+[CHUNKS_RELACIONADOS: 053 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 36 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 054-sec2-25-alteracao-da-programac-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.5 Alteração da Programação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+As escalas de fruição de férias dos Procuradores do Estado serão elaboradas pelo Procurador-
+Chefe do respectivo órgão de execução central. 
+A escala de afastamento para fruição de férias deve observar o percentual máximo de 
+afastamento simultâneo de 25% (vinte e cinco por cento) dos Procuradores do Estado em efetivo 
+exercício no mesmo órgão de execução, área de atuação ou grupo de distribuição, conforme o 
+caso.  
+O percentual citado no parágrafo anterior poderá ser alterado no caso de acordo firmado entre a 
+chefia do órgão de execução central finalístico e os Procuradores do Estado em efetivo exercício 
+no mesmo órgão de execução, área de atuação ou grupo de distribuição, conforme o caso. 
+
+
+A alteração da programação de férias deverá ser solicitada impreterivelmente até o quinto dia útil 
+do mês imediatamente anterior à data de início prevista na escala de férias.

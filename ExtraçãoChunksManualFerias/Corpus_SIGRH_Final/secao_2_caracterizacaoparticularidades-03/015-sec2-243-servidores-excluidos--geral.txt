@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e Fevereiro .07]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e Fevereiro .07]
+[CHUNKS_RELACIONADOS: 014 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 015-sec2-243-servidores-excluidos--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.4.3 Servidores excluídos da regra de proporcionalidade estabelecida para Janeiro e Fevereiro .07
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

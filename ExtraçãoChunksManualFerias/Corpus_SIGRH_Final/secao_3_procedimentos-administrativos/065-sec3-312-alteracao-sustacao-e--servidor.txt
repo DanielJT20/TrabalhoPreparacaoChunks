@@ -1,0 +1,29 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Servidor]
+[TEMA: 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias]
+[CHUNKS_RELACIONADOS: 064 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 27 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: servidor]
+[NOME ARQUIVO CHUNK: 065-sec3-312-alteracao-sustacao-e--servidor.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+Nestas situações, as autorizações deverão ficar pendentes até a confirmação do número limite de 
+servidores que poderão usufruir férias nesses meses. Depois de analisar se a solicitação atende aos limites máximos estabelecidos para o órgão e pode 
+ser atendida, o Setorial/Seccional de Gestão de Pessoas deverá autorizar o pedido por meio do 
+Sistema Integrado de Gestão de Recursos Humanos - SIGRH (Afastamentos – Férias – Autorizar 
+pedido de férias – Selecionar a opção “Pendente de Aval RH” – Autorizar pedido de férias). Após a autorização, o pedido ficará disponível para homologação do gestor por meio do Portal de 
+Serviços do SIGRH, conforme os passos informados anteriormente. 
+
+Acessar o Portal de Serviços do SIGRH, Programação de Férias – clicar no ícone de edição ou 
+anulação, conforme o caso.

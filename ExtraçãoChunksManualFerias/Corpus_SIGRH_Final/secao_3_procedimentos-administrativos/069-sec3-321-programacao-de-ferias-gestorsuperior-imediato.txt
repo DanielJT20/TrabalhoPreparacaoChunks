@@ -1,0 +1,38 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Gestor/Superior imediato]
+[TEMA: 3.2.1 Programação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.1 Programação de Férias]
+[CHUNKS_RELACIONADOS: 068 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 83 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: gestorsuperior-imediato]
+[NOME ARQUIVO CHUNK: 069-sec3-321-programacao-de-ferias-gestorsuperior-imediato.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.1 Programação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+ 
+ 
+Emitir o relatório “Prévia da Escala de Férias” no sistema SIGRH (Afastamentos – Férias – 
+04.Emitir escala/Pesquisar férias não programadas – Imprimir escala de férias), nos meses de 
+outubro e novembro de cada exercício. 
+ 
+Encaminhar o relatório às unidades organizacionais do órgão/entidade, com orientações sobre a 
+sua elaboração, estipulando o prazo para a devolução da escala de férias preenchida. 
+ 
+
+De março a dezembro, o gestor imediato, em conjunto com os seus servidores, deverá definir a 
+escala de férias, preenchendo o relatório “Prévia da Escala de Férias” e coletando a assinatura de 
+cada servidor.  
+ 
+Assinar e datar o relatório, a fim de ratificar a programação de férias dos servidores sob sua 
+responsabilidade. 
+ 
+Encaminhar para o Setorial/Seccional de Gestão de Pessoas, observando o prazo estipulado.

@@ -1,0 +1,34 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.1 Período Aquisitivo]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.1 Período Aquisitivo]
+[CHUNKS_RELACIONADOS: 035 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 202 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Não]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 036-sec2-21-periodo-aquisitivo-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.1 Período Aquisitivo
+
+Entende-se por período aquisitivo a contagem de tempo necessário à concessão do direito às 
+férias.  
+ 
+Para usufruir as primeiras férias o servidor deverá cumprir o período de 365 (trezentos e sessenta 
+e cinco) dias no exercício no cargo, que será contado a partir da data da posse, inclusive para o 
+servidor ocupante de cargo em comissão puro, sem vínculo efetivo, ou ocupante apenas de 
+função técnica gerencial no Poder Executivo Estadual. 
+ 
+Para os servidores regidos pela Consolidação das Leis do Trabalho - CLT e Admitidos em 
+emprego de Caráter Temporário – ACT, o período aquisitivo é conquistado depois de 365 
+(trezentos e sessenta e cinco) dias de efetivo exercício a contar da data de início do contrato. 
+ 
+Aos membros do Corpo Temporário de Inativos da Segurança Pública – CTISP são aplicadas as 
+regras de concessão de usufruto de férias estabelecidas ao servidor efetivo do Poder Executivo, 
+considerando-se a data da designação para início do período aquisitivo.

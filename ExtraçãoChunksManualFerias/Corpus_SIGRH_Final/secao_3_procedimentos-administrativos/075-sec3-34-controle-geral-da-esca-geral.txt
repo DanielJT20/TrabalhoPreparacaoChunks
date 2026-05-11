@@ -1,0 +1,35 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.4 Controle geral da escala de férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.4 Controle geral da escala de férias]
+[CHUNKS_RELACIONADOS: 074 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 44 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 075-sec3-34-controle-geral-da-esca-geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.4 Controle geral da escala de férias
+
+[CONTEÚDO_CONTINUIDADE]
+Analisar a Transcrição Funcional dos servidores que constarem no relatório a fim de confirmar se 
+os períodos aquisitivos de férias estão corretos e se o saldo para usufruto é devido. Se os 
+períodos estiverem corretos, encaminhar o relatório ao diretor/gerente da unidade organizacional 
+de lotação do servidor, orientando e informando da necessidade de programação das férias. 15 
+ 
+Restando 30 (trinta) dias para a conquista do período aquisitivo subsequente, sem que o servidor 
+ou o gestor imediato tenham se manifestado sobre a regular marcação do respectivo usufruto de 
+férias, o Setorial/Seccional de Gestão de Pessoas notificará a chefia imediata para que esta 
+proceda à marcação de ofício. 
+
+Gerente/Diretor da unidade organizacional  
+ 
+Acompanhar e controlar a efetivação das férias dos servidores sob sua responsabilidade, 
+conforme programação vigente. Havendo necessidade de alteração, proceder e orientar conforme 
+consta no manual, em procedimento administrativo padrão.

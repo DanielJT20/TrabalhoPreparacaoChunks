@@ -1,0 +1,41 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Setorial/Seccional de Gestão de Pessoas]
+[TEMA: 3.1.1 Solicitação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.1.1 Solicitação de Férias]
+[CHUNKS_RELACIONADOS: 063 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 195 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: setorialseccional-de-gestao-de-pessoas]
+[NOME ARQUIVO CHUNK: 064-sec3-311-solicitacao-de-ferias-setorialseccional-de-gestao-de-pessoas.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.1.1 Solicitação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+ 
+ 
+Acompanhar, no mínimo semanalmente, as solicitações de férias pendentes de análise e efetuar a 
+homologação por meio do Portal de Serviços do SIGRH, Autorizações – Férias – Autorizar férias. 
+ 
+
+As solicitações de usufruto de férias para os meses de janeiro e fevereiro que envolverem 
+pagamento do terço de férias, devem observar os critérios de proporcionalidade e precisam ser 
+autorizadas pelo Setorial ou Seccional de Gestão de Pessoas antes da homologação do Gestor 
+Imediato. 
+ 
+Nestas situações, as autorizações deverão ficar pendentes até a confirmação do número limite de 
+servidores que poderão usufruir férias nesses meses.  
+ 
+Depois de analisar se a solicitação atende aos limites máximos estabelecidos para o órgão e pode 
+ser atendida, o Setorial/Seccional de Gestão de Pessoas deverá autorizar o pedido por meio do 
+Sistema Integrado de Gestão de Recursos Humanos - SIGRH (Afastamentos – Férias – Autorizar 
+pedido de férias – Selecionar a opção “Pendente de Aval RH” – Autorizar pedido de férias). 
+ 
+Após a autorização, o pedido ficará disponível para homologação do gestor por meio do Portal de 
+Serviços do SIGRH, conforme os passos informados anteriormente.

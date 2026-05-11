@@ -1,0 +1,42 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.5 Particularidades para servidores da carreira da Polícia Civil]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.3.5 Particularidades para servidores da carreira da Polícia Civil]
+[CHUNKS_RELACIONADOS: 045 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 22 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 046-sec2-235-particularidades-para-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.3.5 Particularidades para servidores da carreira da Polícia Civil
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Os servidores do Quadro de Pessoal do Magistério Público Estadual em exercício nas unidades 
+escolares da rede estadual de ensino e na Fundação Catarinense de Educação Especial - FCEE 
+usufruirão férias obrigatoriamente no mês de janeiro, não sendo permitido o parcelamento do 
+usufruto. 
+ 
+Ao professor ou servidor em exercício nas unidades ou estabelecimentos de ensino, em gozo de 
+Licença para Tratamento de Saúde (LTS) iniciada antes do período das férias e que estiver 
+impedido de usufruí-las no mês de janeiro, fica assegurado o direito de usufruto em período 
+posterior, preferencialmente no recesso escolar, segundo a necessidade e conveniência do 
+ 
+6 
+ 
+referido órgão ou entidade. 
+ 
+Se não estiver em exercício em estabelecimento de ensino deverá usufruir 30 (trinta) dias 
+contínuos de férias, segundo a escala previamente organizada. 
+ 
+
+
+É facultado o gozo de férias em 2 (dois) períodos, não inferiores a 10 (dez) dias consecutivos.

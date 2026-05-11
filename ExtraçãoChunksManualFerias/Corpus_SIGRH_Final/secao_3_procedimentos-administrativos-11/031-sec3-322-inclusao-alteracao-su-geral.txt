@@ -1,0 +1,23 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos ...............................................................................................11]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias.......................................13]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos ...............................................................................................11 > 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias.......................................13]
+[CHUNKS_RELACIONADOS: 030 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 031-sec3-322-inclusao-alteracao-su-geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS ...............................................................................................11
+## 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias.......................................13
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+

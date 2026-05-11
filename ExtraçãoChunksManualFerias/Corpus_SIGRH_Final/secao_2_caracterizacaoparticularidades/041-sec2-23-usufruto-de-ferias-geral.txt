@@ -1,0 +1,40 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3 Usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.3 Usufruto de Férias]
+[CHUNKS_RELACIONADOS: 040 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 150 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 041-sec2-23-usufruto-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.3 Usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+O período concessivo tem início no dia subsequente à conquista do período aquisitivo de férias 
+indo até o dia imediatamente anterior a próxima conquista. 
+ 
+5 
+ 
+
+
+Mediante acordo com o gestor imediato, é permitido o usufruto antecipado de férias a partir do 
+segundo período aquisitivo, sendo devida a restituição ao Erário caso ocorra o encerramento do 
+vínculo com o Poder Executivo Estadual antes da conquista do período aquisitivo correspondente. 
+ 
+É facultado o usufruto de férias em até 3 (três) períodos, não inferiores a 10 (dez) dias 
+consecutivos, excetuando-se desta regra os servidores regidos pela Lei nº 6.844 de 29/07/1986 e 
+pela Lei nº 6.843 de 28/07/1986. 
+ 
+Quando o usufruto de férias for parcelado, todos os períodos deverão ser incluídos no Sistema 
+Integrado de Gestão de Recursos Humanos - SIGRH na mesma ocasião deverá haver, 
+obrigatoriamente, interstício de dias trabalhados entre os usufrutos.

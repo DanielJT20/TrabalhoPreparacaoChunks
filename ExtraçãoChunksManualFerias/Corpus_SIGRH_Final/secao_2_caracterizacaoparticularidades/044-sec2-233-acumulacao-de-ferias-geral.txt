@@ -1,0 +1,30 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.3 Acumulação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.3.3 Acumulação de Férias]
+[CHUNKS_RELACIONADOS: 043 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 26 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 044-sec2-233-acumulacao-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.3.3 Acumulação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+No mês de usufruto de férias, o servidor não receberá o pagamento de gratificação pela 
+participação em comissão de licitação ou de comissão que tenha ressalva em legislação 
+específica. 
+ 
+
+
+É proibida a acumulação de férias, devendo o usufruto completo ocorrer até a data de conquista 
+do período aquisitivo subsequente.

@@ -1,0 +1,30 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Geral]
+[TEMA: 3.1 Elaboração da escala de férias por meio do Portal de Serviços do SIGRH]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.1 Elaboração da escala de férias por meio do Portal de Serviços do SIGRH]
+[CHUNKS_RELACIONADOS: 060 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 0 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 061-sec3-31-elaboracao-da-escala-d-geral.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.1 Elaboração da escala de férias por meio do Portal de Serviços do SIGRH
+
+[CONTEÚDO_CONTINUIDADE]
+A indenização de férias será paga administrativamente, tendo como base a data de ingresso do 
+servidor no serviço público, considerando a relação entre aquisição do direito e os usufrutos 
+correspondentes. O valor da indenização abrange os dias não usufruídos de férias e o proporcional da gratificação 
+(terço de férias) e terá como base de cálculo a última remuneração bruta, excluídas verbas 
+transitórias ou indenizatórias. O pagamento de indenização de férias não é estendido àqueles servidores que não tiverem 
+encerramento do vínculo ativo, ou seja, quando exonerado/dispensado de cargo de provimento 
+em comissão, mas mantém cargo de provimento efetivo, inclusive advindos de outros Poderes, 
+entidades e entes federativos. 11 
+ 
+

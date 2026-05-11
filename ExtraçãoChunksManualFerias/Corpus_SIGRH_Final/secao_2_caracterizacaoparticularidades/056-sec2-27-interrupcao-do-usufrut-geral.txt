@@ -1,0 +1,87 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.7 Interrupção do Usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.7 Interrupção do Usufruto de Férias]
+[CHUNKS_RELACIONADOS: 055 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 531 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 056-sec2-27-interrupcao-do-usufrut-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.7 Interrupção do Usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Sustar é o ato de cancelar integralmente o usufruto não iniciado das férias, com estorno aos 
+cofres públicos dos valores recebidos pelo servidor, mediante autorização do gestor imediato. 
+ 
+A sustação poderá ocorrer de três formas: 
+ 
+I - A pedido do servidor, devidamente autorizada pela chefia imediata;  
+II - Decorrente de necessidade de inclusão, pela Diretoria de Saúde do Servidor, de registro de 
+afastamento do servidor com data de início igual ou anterior ao usufruto previsto das férias, 
+devidamente autorizado; e 
+III - A pedido do gestor imediato, em caso de necessidade de serviço, mediante justificativa 
+fundamentada. 
+ 
+ 
+9 
+ 
+A sustação sempre deverá ser solicitada e registrada até o início do usufruto previsto das férias, 
+quando deverá ser reprogramada a nova data de usufruto. 
+ 
+
+
+Entende-se por interrupção o ato de fazer cessar o usufruto já iniciado de férias. 
+ 
+Neste caso, será oportunizado ao servidor usufruir o saldo de férias em data oportuna, dentro do 
+período concessivo a que se refere. 
+ 
+As férias somente poderão ser interrompidas nas seguintes hipóteses: 
+  
+I - Por iniciativa do servidor, nos casos de convocação para júri, serviço militar ou eleitoral, 
+mediante apresentação do documento de convocação do servidor;  
+II - A pedido do gestor imediato, em caso de necessidade de serviço, mediante justificativa 
+fundamentada; e 
+III - Em caso de Licença para Repouso à Gestante e Licença Especial para Atender Menor 
+Adotado, pois prevalecem sobre os demais afastamentos. 
+ 
+A solicitação de interrupção deverá ocorrer durante o período de usufruto até o processamento 
+parcial da folha de pagamento do mês subsequente.  
+ 
+Em qualquer caso, junto com a solicitação de interrupção, o(a) servidor(a) deverá informar a data 
+para continuidade do usufruto, sendo, preferencialmente, a partir do dia subsequente ao término 
+da situação que gerou a interrupção. 
+ 
+Nos casos em que a interrupção se der pelos motivos elencados nos itens I e II e ocorrer após o 
+10º (décimo) dia de usufruto, não haverá devolução da gratificação de férias. 
+ 
+Nos casos de interrupção pelos motivos elencados no item III, não haverá a devolução da 
+gratificação de férias independentemente da quantidade de dias efetivamente usufruídos antes da 
+ocorrência do fato que gerou a interrupção. 
+ 
+As Licenças Paternidade, Núpcias, Luto e para Tratamento de Saúde do servidor ou de seu 
+familiar, ocorridos dentro do usufruto das férias não as interrompem, ou seja, ficam por esta 
+absorvidos, resguardado o direito ao usufruto de eventual saldo remanescente subsequente ao 
+fim das férias. 
+ 
+Exemplo: As férias terminam dia 15 e o servidor casou dia 13.  
+O Servidor poderá ficar afastado por Licença Núpcias por 5 (cinco) dias, a partir do dia 
+16, pois a Licença Núpcias regulamentada é de 8 (oito) dias consecutivos, contados da 
+data do casamento (dia 13), mas do dia 13 ao 15 (3 dias) o servidor ainda estava 
+oficialmente em férias, que não podem ser interrompidas por este motivo. 
+A orientação, nestes casos, é que o servidor requeira normalmente a Licença Núpcias, 
+Luto, Paternidade ou para Tratamento de Saúde, no prazo, sendo que deve estar ciente 
+que ao ser lançada a licença, o sistema SIGRH não interromperá o período já registrado 
+de férias, somente considerando a licença para o restante dos dias de direito que 
+ultrapassarem a data final das férias.  
+ 
+10

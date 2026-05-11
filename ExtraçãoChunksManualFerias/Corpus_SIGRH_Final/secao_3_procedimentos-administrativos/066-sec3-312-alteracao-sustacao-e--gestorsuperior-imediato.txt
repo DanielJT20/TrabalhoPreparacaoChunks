@@ -1,0 +1,38 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Gestor/Superior imediato]
+[TEMA: 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias]
+[CHUNKS_RELACIONADOS: 065 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 132 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: gestorsuperior-imediato]
+[NOME ARQUIVO CHUNK: 066-sec3-312-alteracao-sustacao-e--gestorsuperior-imediato.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.1.2 Alteração, Sustação e Interrupção do usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+  
+ 
+Acessar o Portal de Serviços do SIGRH, Programação de Férias – clicar no ícone de edição ou 
+anulação, conforme o caso. 
+ 
+
+Acompanhar, no mínimo semanalmente, as solicitações de férias pendentes de análise e efetuar a 
+ 
+12 
+ 
+homologação por meio do Portal de Serviços do SIGRH, Autorizações – Férias – Autorizar férias. 
+ 
+Em situações excepcionais, quando não for possível efetuar a inclusão, alteração, sustação ou 
+interrupção de férias por meio do Portal de Serviços do SIGRH, a solicitação poderá ser feita por 
+meio de processo no Sistema de Gestão de Processos Eletrônicos - SGPE, autuado pelo próprio 
+servidor, com o formulário (MLR-1) Requerimento de Inclusão, Alteração, Sustação e/ou 
+Interrupção de Férias preenchido e assinado pelo servidor e superior imediato, conforme 
+instruções do item 3.2.2.

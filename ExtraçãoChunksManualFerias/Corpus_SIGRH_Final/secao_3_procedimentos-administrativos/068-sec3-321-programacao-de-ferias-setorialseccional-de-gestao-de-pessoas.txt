@@ -1,0 +1,31 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Setorial/Seccional de Gestão de Pessoas]
+[TEMA: 3.2.1 Programação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.1 Programação de Férias]
+[CHUNKS_RELACIONADOS: 067 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 76 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: setorialseccional-de-gestao-de-pessoas]
+[NOME ARQUIVO CHUNK: 068-sec3-321-programacao-de-ferias-setorialseccional-de-gestao-de-pessoas.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.1 Programação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+SIGRH  
+ 
+
+
+Emitir o relatório “Prévia da Escala de Férias” no sistema SIGRH (Afastamentos – Férias – 
+04.Emitir escala/Pesquisar férias não programadas – Imprimir escala de férias), nos meses de 
+outubro e novembro de cada exercício. 
+ 
+Encaminhar o relatório às unidades organizacionais do órgão/entidade, com orientações sobre a 
+sua elaboração, estipulando o prazo para a devolução da escala de férias preenchida.

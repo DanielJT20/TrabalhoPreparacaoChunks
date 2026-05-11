@@ -1,0 +1,76 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.1.2 Afastamentos que interferem na conquista do período aquisitivo de férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.1.2 Afastamentos que interferem na conquista do período aquisitivo de férias]
+[CHUNKS_RELACIONADOS: 037 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 288 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 038-sec2-212-afastamentos-que-inte-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.1.2 Afastamentos que interferem na conquista do período aquisitivo de férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Os servidores nomeados para cargo efetivo na Administração Pública Estadual Direta, 
+Autárquica e Fundacional do Poder Executivo Estadual, oriundos de outras esferas ou Poderes, 
+somente poderão usufruir férias após 12 (doze) meses de efetivo exercício a contar da data de 
+posse no novo cargo. 
+ 
+Os servidores cedidos de outros agrupamentos para órgãos do Poder Executivo Estadual que 
+recebam seus vencimentos pelo órgão de origem devem observar os regramentos daquele órgão 
+para conquista e usufruto de férias. 
+ 
+Os servidores cedidos de outros agrupamentos para órgãos do Poder Executivo Estadual que 
+recebam seus vencimentos pelo órgão de origem e venham a ser nomeados para cargos em 
+comissão ou funções gratificadas, deverão observar os regramentos tanto do órgão de origem 
+quanto do órgão de destino para fins de férias e iniciar a contagem de um novo período aquisitivo 
+a partir da data da nomeação para o cargo, somente sendo permitido usufruir férias após 12 
+(doze) meses de efetivo exercício. 
+ 
+
+
+Afastamentos que suspendem o cômputo do período aquisitivo, retomando a contagem no 
+retorno: 
+ 
+4 
+ 
+- Faltas injustificadas;  
+- Licença para tratamento de interesse particular;  
+- Disposições sem ônus para o Poder Executivo Estadual;  
+- Licença para o exercício de mandato eletivo com opção da remuneração pelo eletivo;  
+- Considerado incapaz permanente;  
+- Abandono de cargo ou emprego;  
+- Aguardando processo de aposentadoria;  
+- Afastamento do país em caráter particular; e 
+- Suspensão sem remuneração. 
+ 
+Afastamentos que exigem o início da contagem de um novo período aquisitivo a partir da data de 
+retorno ao efetivo exercício: 
+ 
+- Aposentadoria revertida;  
+- Reintegração; e 
+- Recondução ao cargo público. 
+ 
+Afastamentos que implicam em sobrestamento da contagem do período aquisitivo de férias até a 
+decisão definitiva do Processo Administrativo Disciplinar ou até a publicação de sentença judicial 
+definitiva nos processos que determinaram os afastamentos: 
+ 
+- Afastamento do cargo público com remuneração por decisão judicial; 
+- Afastamento preventivo – redução 1/3 vencimentos; 
+- Afastamento preventivo com remuneração; 
+- Cumprimento de pena – 1/3 vencimentos; 
+- Cumprimento de pena por decisão judicial – 2/3 vencimentos; 
+- Prisão preventiva – com remuneração. 
+ 
+*No caso de algum dos afastamentos acima listados, o servidor fará jus a contagem de tempo 
+para usufruto de férias e recebimento do terço constitucional apenas se e quando sobrevier 
+sentença definitiva que não confirme os ilícitos.

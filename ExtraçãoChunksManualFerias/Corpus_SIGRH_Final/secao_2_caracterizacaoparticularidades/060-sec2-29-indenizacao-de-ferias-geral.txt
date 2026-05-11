@@ -1,0 +1,48 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.9 Indenização de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.9 Indenização de Férias]
+[CHUNKS_RELACIONADOS: 059 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 205 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 060-sec2-29-indenizacao-de-ferias-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.9 Indenização de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Os servidores em exercício nas unidades escolares da rede estadual de ensino da Secretaria de 
+Estado da Educação - SED e na Fundação Catarinense de Educação Especial – FCEE 
+perceberão a gratificação de férias no mês de usufruto. 
+ 
+
+
+É devida a indenização das férias proporcionais ou integrais não usufruídas na atividade, nos 
+casos de aposentadoria, exoneração ou demissão do servidor público, sendo que se o servidor 
+gozar antecipadamente as férias, será imputada responsabilidade pela reposição ao Erário dos 
+valores correspondentes ao que faltar para completar o período aquisitivo. 
+ 
+A indenização de férias será paga administrativamente, tendo como base a data de ingresso do 
+servidor no serviço público, considerando a relação entre aquisição do direito e os usufrutos 
+correspondentes.  
+  
+O valor da indenização abrange os dias não usufruídos de férias e o proporcional da gratificação 
+(terço de férias) e terá como base de cálculo a última remuneração bruta, excluídas verbas 
+transitórias ou indenizatórias. 
+ 
+O pagamento de indenização de férias não é estendido àqueles servidores que não tiverem 
+encerramento do vínculo ativo, ou seja, quando exonerado/dispensado de cargo de provimento 
+em comissão, mas mantém cargo de provimento efetivo, inclusive advindos de outros Poderes, 
+entidades e entes federativos. 
+ 
+ 
+11

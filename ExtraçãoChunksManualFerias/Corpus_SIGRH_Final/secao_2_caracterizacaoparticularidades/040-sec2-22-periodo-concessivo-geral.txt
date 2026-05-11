@@ -1,0 +1,38 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.2 Período Concessivo]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.2 Período Concessivo]
+[CHUNKS_RELACIONADOS: 039 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 32 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 040-sec2-22-periodo-concessivo-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.2 Período Concessivo
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+- Exercício de mandato eletivo com opção da remuneração pelo efetivo;  
+- Desincompatibilização para concorrer a cargo eletivo;  
+- Disposições com ônus para o Poder Executivo Estadual;  
+- Afastamentos para cursar pós-graduação; 
+- Frequentar curso ou evento; 
+- Aguardando processo de aposentadoria até 31/12/2021; 
+- Faltas justificadas; 
+- Licença para tratamento de saúde; e 
+- Demais afastamentos previstos no art. 18 da Lei no. 6.745 de 1985. 
+ 
+
+
+O período concessivo tem início no dia subsequente à conquista do período aquisitivo de férias 
+indo até o dia imediatamente anterior a próxima conquista. 
+ 
+5

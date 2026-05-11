@@ -1,0 +1,37 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.4.6 Particularidades dos Procuradores do Estado]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.4.6 Particularidades dos Procuradores do Estado]
+[CHUNKS_RELACIONADOS: 052 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 145 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 053-sec2-246-particularidades-dos--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.4.6 Particularidades dos Procuradores do Estado
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+O Professor Colaborador admitido em caráter temporário na UDESC, tem direito às férias 
+remuneradas, com usufruto no mês de janeiro de cada ano depois de decorrido 1 (um) ano da 
+admissão vigente. 
+ 
+
+
+As escalas de fruição de férias dos Procuradores do Estado serão elaboradas pelo Procurador-
+Chefe do respectivo órgão de execução central. 
+A escala de afastamento para fruição de férias deve observar o percentual máximo de 
+afastamento simultâneo de 25% (vinte e cinco por cento) dos Procuradores do Estado em efetivo 
+exercício no mesmo órgão de execução, área de atuação ou grupo de distribuição, conforme o 
+caso.  
+O percentual citado no parágrafo anterior poderá ser alterado no caso de acordo firmado entre a 
+chefia do órgão de execução central finalístico e os Procuradores do Estado em efetivo exercício 
+no mesmo órgão de execução, área de atuação ou grupo de distribuição, conforme o caso.

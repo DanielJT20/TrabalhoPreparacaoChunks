@@ -1,0 +1,47 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Servidor]
+[TEMA: 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CHUNKS_RELACIONADOS: 070 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 261 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: servidor]
+[NOME ARQUIVO CHUNK: 071-sec3-322-inclusao-alteracao-su-servidor.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+Registrar, impreterivelmente, até o processamento parcial da folha de pagamento do mês de 
+janeiro, no mínimo toda a programação referente ao usufruto das férias do mês de fevereiro. Registrar, impreterivelmente, até o dia 31 (trinta e um) de janeiro, toda programação do usufruto 
+de férias referente aos meses de março a dezembro. Arquivar o relatório. 
+
+- Definir, em comum acordo com o gestor imediato, a nova data para usufruto das férias. 
+ 
+- Acessar o formulário (MLR-1) Requerimento de Inclusão, Alteração, Sustação e/ou 
+Interrupção de Férias, disponível no Portal de Serviços SIGRH, lado externo, em Acesso aos 
+manuais administrativos, formulários e informes, Categoria Formulários, Subcategoria Geral, 
+no campo de busca escrever o número do formulário, preencher, assinar, autuar processo SGPE, 
+inserir o formulário, solicitar a assinatura do gestor imediato e tramitar o processo para a área de 
+Gestão de Pessoas do órgão.  
+ 
+O formulário (MLR-1) deve conter, obrigatoriamente, a nova data de usufruto e ser encaminhado 
+até o 5º (quinto) dia útil do mês anterior ao das férias programadas na escala vigente. 
+ 
+Se a solicitação for de interrupção de férias, deverá ser efetuada durante o período de usufruto e, 
+além do formulário (MLR-1) preenchido e assinado, deve ser anexado ao processo o documento 
+que justificou a interrupção, como o documento de convocação, o despacho fundamentado do 
+gestor comprovando a imperiosa necessidade do serviço ou a certidão de nascimento/adoção, 
+conforme o caso. 
+ 
+É de responsabilidade do servidor a observância dos prazos para alteração de férias, sob pena de 
+não receber a gratificação de férias antecipadamente ao usufruto. 
+ 
+ 
+14

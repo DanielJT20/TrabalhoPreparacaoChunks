@@ -1,0 +1,47 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.1.3 Afastamentos que não interferem na conquista do período aquisitivo de férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.1.3 Afastamentos que não interferem na conquista do período aquisitivo de férias]
+[CHUNKS_RELACIONADOS: 038 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 87 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 039-sec2-213-afastamentos-que-nao--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.1.3 Afastamentos que não interferem na conquista do período aquisitivo de férias
+
+[CONTEÚDO_CONTINUIDADE]
+Afastamentos que exigem o início da contagem de um novo período aquisitivo a partir da data de 
+retorno ao efetivo exercício: 
+ 
+- Aposentadoria revertida;  
+- Reintegração; e 
+- Recondução ao cargo público. Afastamentos que implicam em sobrestamento da contagem do período aquisitivo de férias até a 
+decisão definitiva do Processo Administrativo Disciplinar ou até a publicação de sentença judicial 
+definitiva nos processos que determinaram os afastamentos: 
+ 
+- Afastamento do cargo público com remuneração por decisão judicial; 
+- Afastamento preventivo – redução 1/3 vencimentos; 
+- Afastamento preventivo com remuneração; 
+- Cumprimento de pena – 1/3 vencimentos; 
+- Cumprimento de pena por decisão judicial – 2/3 vencimentos; 
+- Prisão preventiva – com remuneração. *No caso de algum dos afastamentos acima listados, o servidor fará jus a contagem de tempo 
+para usufruto de férias e recebimento do terço constitucional apenas se e quando sobrevier 
+sentença definitiva que não confirme os ilícitos. 
+
+- Exercício de mandato eletivo com opção da remuneração pelo efetivo;  
+- Desincompatibilização para concorrer a cargo eletivo;  
+- Disposições com ônus para o Poder Executivo Estadual;  
+- Afastamentos para cursar pós-graduação; 
+- Frequentar curso ou evento; 
+- Aguardando processo de aposentadoria até 31/12/2021; 
+- Faltas justificadas; 
+- Licença para tratamento de saúde; e 
+- Demais afastamentos previstos no art. 18 da Lei no. 6.745 de 1985.

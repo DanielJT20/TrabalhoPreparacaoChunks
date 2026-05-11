@@ -1,0 +1,37 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.7.1 Particularidade dos servidores da Polícia Civil]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.7.1 Particularidade dos servidores da Polícia Civil]
+[CHUNKS_RELACIONADOS: 056 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 89 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 057-sec2-271-particularidade-dos-s-geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.7.1 Particularidade dos servidores da Polícia Civil
+
+[CONTEÚDO_CONTINUIDADE]
+Exemplo: As férias terminam dia 15 e o servidor casou dia 13. O Servidor poderá ficar afastado por Licença Núpcias por 5 (cinco) dias, a partir do dia 
+16, pois a Licença Núpcias regulamentada é de 8 (oito) dias consecutivos, contados da 
+data do casamento (dia 13), mas do dia 13 ao 15 (3 dias) o servidor ainda estava 
+oficialmente em férias, que não podem ser interrompidas por este motivo. A orientação, nestes casos, é que o servidor requeira normalmente a Licença Núpcias, 
+Luto, Paternidade ou para Tratamento de Saúde, no prazo, sendo que deve estar ciente 
+que ao ser lançada a licença, o sistema SIGRH não interromperá o período já registrado 
+de férias, somente considerando a licença para o restante dos dias de direito que 
+ultrapassarem a data final das férias. 10 
+ 
+
+
+O policial civil não pode ser obrigado a interromper as férias, a não ser em virtude de urgente 
+necessidade de serviço, mediante convocação da autoridade competente. 
+ 
+O policial civil tem direito de gozar o saldo remanescente das férias interrompidas até o final do 
+período aquisitivo subsequente ao período em que ocorreu a suspensão, não sendo obrigado a 
+restituir o acréscimo constitucional de 1/3 (um terço) da remuneração já recebida.

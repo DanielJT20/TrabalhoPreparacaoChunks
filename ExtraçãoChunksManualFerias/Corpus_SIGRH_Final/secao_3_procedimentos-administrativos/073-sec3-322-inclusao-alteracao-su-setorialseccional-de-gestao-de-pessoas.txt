@@ -1,0 +1,45 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Setorial/Seccional de Gestão de Pessoas]
+[TEMA: 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias]
+[CHUNKS_RELACIONADOS: 072 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 245 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: setorialseccional-de-gestao-de-pessoas]
+[NOME ARQUIVO CHUNK: 073-sec3-322-inclusao-alteracao-su-setorialseccional-de-gestao-de-pessoas.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.2.2 Inclusão, Alteração, Sustação e Interrupção do usufruto de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+ 
+ 
+- Ratificar a solicitação do servidor, assinando o formulário no SGPE. 
+ 
+
+- Conferir se o formulário (MLR-1) está devidamente preenchido, assinado pelo servidor, gestor  
+   imediato e dentro do prazo limite para solicitação. 
+ 
+- Emitir a Transcrição Funcional do(a) servidor(a) no Sistema Integrado de Gestão de Recursos  
+  Humanos SIGRH – Cadastro – Vínculo – 02.Emitir Transcrição Funcional, analisar em especial  
+  os itens 10 (Afastamentos) e 11 (Faltas Injustificadas), verificando se os períodos aquisitivos de  
+  férias estão corretos e se o saldo para usufruto é devido.  
+ 
+- Se forem verificadas situações que impliquem em ajustes relevantes nos períodos aquisitivos de  
+  férias, deve ser autuado processo no SGPE para SEA/GEBEN/FER, informando as  
+  inconsistências encontradas e as alterações solicitadas.  
+*Em caso de dúvidas quanto aos afastamentos que impactam nos períodos aquisitivos de férias,   
+ consultar o item 2.1. deste Manual. 
+ 
+- Se não houver pendências/diligências, registrar no Sistema Integrado - SIGRH a solicitação do   
+  servidor (Afastamentos – Férias – 01.Manter férias individuais). 
+*Se não for possível registrar a solicitação do servidor no sistema, o Setorial/Seccional de 
+Gestão de Pessoas do órgão/entidade deverá encaminhar o processo no SGPE para 
+SEA/GEBEN/FER informando, por meio de despacho, a solicitação do servidor e o motivo do 
+encaminhamento do processo.

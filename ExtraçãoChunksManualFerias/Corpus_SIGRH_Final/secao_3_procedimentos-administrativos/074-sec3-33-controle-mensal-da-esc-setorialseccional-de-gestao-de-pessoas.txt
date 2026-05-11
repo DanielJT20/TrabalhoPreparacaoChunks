@@ -1,0 +1,46 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Setorial/Seccional de Gestão de Pessoas]
+[TEMA: 3.3 Controle mensal da escala de férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.3 Controle mensal da escala de férias]
+[CHUNKS_RELACIONADOS: 073 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 253 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: setorialseccional-de-gestao-de-pessoas]
+[NOME ARQUIVO CHUNK: 074-sec3-33-controle-mensal-da-esc-setorialseccional-de-gestao-de-pessoas.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.3 Controle mensal da escala de férias
+
+[CONTEÚDO_CONTINUIDADE]
+deste Manual. - Se não houver pendências/diligências, registrar no Sistema Integrado - SIGRH a solicitação do   
+  servidor (Afastamentos – Férias – 01.Manter férias individuais). *Se não for possível registrar a solicitação do servidor no sistema, o Setorial/Seccional de 
+Gestão de Pessoas do órgão/entidade deverá encaminhar o processo no SGPE para 
+SEA/GEBEN/FER informando, por meio de despacho, a solicitação do servidor e o motivo do 
+encaminhamento do processo. 
+
+Compete aos Setoriais/Seccionais de Gestão de Pessoas emitir no Sistema Integra de Gestão de 
+Recursos Humanos - SIGRH, a cada mês: 
+ 
+1) O Aviso de Férias dos servidores com previsão de férias para o segundo mês subsequente ao 
+processamento da folha de pagamento (Afastamentos – Férias – 02. Emitir Aviso de Férias) e 
+encaminhar às unidades organizacionais para ciência e entrega aos servidores. 
+ 
+2) A relação dos servidores com período aquisitivo de férias conquistado e sem programação de 
+usufruto registrada (Afastamentos – Férias – 04.Emitir escala/Pesquisar férias não programadas). 
+Analisar a Transcrição Funcional dos servidores que constarem no relatório a fim de confirmar se 
+os períodos aquisitivos de férias estão corretos e se o saldo para usufruto é devido. Se os 
+períodos estiverem corretos, encaminhar o relatório ao diretor/gerente da unidade organizacional 
+de lotação do servidor, orientando e informando da necessidade de programação das férias. 
+ 
+15 
+ 
+Restando 30 (trinta) dias para a conquista do período aquisitivo subsequente, sem que o servidor 
+ou o gestor imediato tenham se manifestado sobre a regular marcação do respectivo usufruto de 
+férias, o Setorial/Seccional de Gestão de Pessoas notificará a chefia imediata para que esta 
+proceda à marcação de ofício.

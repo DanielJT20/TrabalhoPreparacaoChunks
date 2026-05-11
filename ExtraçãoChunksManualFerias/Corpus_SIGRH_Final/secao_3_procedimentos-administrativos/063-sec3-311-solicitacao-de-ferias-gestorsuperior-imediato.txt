@@ -1,0 +1,29 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 3 Procedimentos Administrativos]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: ATOR/RESPONSÁVEL]
+[ENTIDADE: Gestor/Superior imediato]
+[TEMA: 3.1.1 Solicitação de Férias]
+[CONTEXTO_HIERÁRQUICO: Manual > 3 Procedimentos Administrativos > 3.1.1 Solicitação de Férias]
+[CHUNKS_RELACIONADOS: 062 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 37 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: gestorsuperior-imediato]
+[NOME ARQUIVO CHUNK: 063-sec3-311-solicitacao-de-ferias-gestorsuperior-imediato.txt]
+
+# 3 PROCEDIMENTOS ADMINISTRATIVOS
+## 3.1.1 Solicitação de Férias
+
+[CONTEÚDO_CONTINUIDADE]
+ 
+ 
+Acessar o Portal de Serviços do SIGRH, https://sigrhportal.sea.sc.gov.br/ - Programação de Férias 
+– Novo pedido de férias e registrar a programação desejada para usufruto até a data de conquista 
+do período aquisitivo subsequente.  
+ 
+
+Acompanhar, no mínimo semanalmente, as solicitações de férias pendentes de análise e efetuar a 
+homologação por meio do Portal de Serviços do SIGRH, Autorizações – Férias – Autorizar férias.

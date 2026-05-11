@@ -1,0 +1,47 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para]
+[CHUNKS_RELACIONADOS: 041 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 127 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 042-sec2-231-usufruto-de-ferias-e--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para
+
+[CONTEÚDO_CONTINUIDADE]
+
+ 
+Mediante acordo com o gestor imediato, é permitido o usufruto antecipado de férias a partir do 
+segundo período aquisitivo, sendo devida a restituição ao Erário caso ocorra o encerramento do 
+vínculo com o Poder Executivo Estadual antes da conquista do período aquisitivo correspondente. 
+ 
+É facultado o usufruto de férias em até 3 (três) períodos, não inferiores a 10 (dez) dias 
+consecutivos, excetuando-se desta regra os servidores regidos pela Lei nº 6.844 de 29/07/1986 e 
+pela Lei nº 6.843 de 28/07/1986. 
+ 
+Quando o usufruto de férias for parcelado, todos os períodos deverão ser incluídos no Sistema 
+Integrado de Gestão de Recursos Humanos - SIGRH na mesma ocasião deverá haver, 
+obrigatoriamente, interstício de dias trabalhados entre os usufrutos. 
+ 
+
+
+Tratamento de Saúde de Pessoa da Família (LTF) 
+ 
+Havendo pedido de LTS ou LTF do servidor antes ou concomitantemente com o início do 
+período de férias, prevalecerá o pedido de LTS ou LTF. 
+ 
+Não haverá interrupção das férias para servidor que venha a ser acometido de doença ou que 
+ocorra doença em pessoa da família, durante o usufruto de férias, resguardado o direito ao 
+usufruto de eventual saldo remanescente subsequente ao fim das férias. 
+ 
+O usufruto de férias após o fim do afastamento por Licença para Tratamento de Saúde só será 
+permitido com interstício de dias efetivamente trabalhados.

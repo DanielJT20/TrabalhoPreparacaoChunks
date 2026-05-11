@@ -1,0 +1,38 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.2 Usufruto de Férias e Participação em Comissões]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades > 2.3.2 Usufruto de Férias e Participação em Comissões]
+[CHUNKS_RELACIONADOS: 042 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 37 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 043-sec2-232-usufruto-de-ferias-e--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES
+## 2.3.2 Usufruto de Férias e Participação em Comissões
+
+[CONTEÚDO_CONTINUIDADE]
+
+Tratamento de Saúde de Pessoa da Família (LTF) 
+ 
+Havendo pedido de LTS ou LTF do servidor antes ou concomitantemente com o início do 
+período de férias, prevalecerá o pedido de LTS ou LTF. 
+ 
+Não haverá interrupção das férias para servidor que venha a ser acometido de doença ou que 
+ocorra doença em pessoa da família, durante o usufruto de férias, resguardado o direito ao 
+usufruto de eventual saldo remanescente subsequente ao fim das férias. 
+ 
+O usufruto de férias após o fim do afastamento por Licença para Tratamento de Saúde só será 
+permitido com interstício de dias efetivamente trabalhados. 
+ 
+
+
+No mês de usufruto de férias, o servidor não receberá o pagamento de gratificação pela 
+participação em comissão de licitação ou de comissão que tenha ressalva em legislação 
+específica.

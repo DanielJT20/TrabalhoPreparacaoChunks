@@ -1,0 +1,24 @@
+[TIPO: Manual/Procedimento]
+[FONTE: Manual-Ferias-SIGRH.pdf]
+[SEÇÃO: 2 Caracterização/Particularidades ...............................................................................................03]
+[PÁGINA: Extração Integral]
+[DIMENSÃO_PRIMÁRIA: TÓPICO/CLÁUSULA]
+[ENTIDADE: Geral]
+[TEMA: 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para]
+[CONTEXTO_HIERÁRQUICO: Manual > 2 Caracterização/Particularidades ...............................................................................................03 > 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para]
+[CHUNKS_RELACIONADOS: 006 if idx > 1 else "None"]
+[TIPO_ESTRUTURA: Normal]
+[TAMANHO: 11 tokens]
+[EXCEÇÃO_TAMANHO: Não]
+[OVERLAP: Sim]
+[NOME CHUNK: geral]
+[NOME ARQUIVO CHUNK: 007-sec2-231-usufruto-de-ferias-e--geral.txt]
+
+# 2 CARACTERIZAÇÃO/PARTICULARIDADES ...............................................................................................03
+## 2.3.1 Usufruto de Férias e Licença para Tratamento de Saúde (LTS) ou Licença para
+
+[CONTEÚDO_CONTINUIDADE]
+
+
+
+Tratamento de Saúde de Pessoa da Família (LTF) ........................................................................05
