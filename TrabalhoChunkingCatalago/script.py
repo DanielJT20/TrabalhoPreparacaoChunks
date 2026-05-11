@@ -1,80 +1,66 @@
 import pandas as pd
 import json
+import re
+import unicodedata
+
+def normalizar_coluna(col):
+    if not isinstance(col, str): return col
+    nfkd_form = unicodedata.normalize('NFKD', col)
+    col = "".join([c for c in nfkd_form if not unicodedata.combining(c)])
+    col = re.sub(r'\s+', ' ', col).strip().upper()
+    return col
+
+def safe_float(valor):
+    try:
+        if pd.isna(valor): return 0.0
+        s = str(valor).replace(',', '.').strip()
+        if not s or s == '' or s.isspace(): return 0.0
+        return float(s)
+    except: return 0.0
 
 def gerar_chunks_trabalho():
-    # URL do catálogo fornecida no enunciado 
     url = "https://raw.githubusercontent.com/alvaroriz/datascience_datasets/refs/heads/main/Catalogo-Produtos.csv"
-    
-    print("Iniciando o processamento do catálogo...")
+    print("Processando catálogo completo (PF e PMC)...")
     
     try:
-        # Carregamento robusto: tratando separador, decimal e linhas problemáticas
-        df = pd.read_csv(
-            url, 
-            sep=';', 
-            quotechar='"', 
-            on_bad_lines='skip', 
-            encoding='utf-8',
-            decimal=','  # Converte '12,50' para 12.5 (float)
-        )
-        
-        # Padronização de colunas (remove espaços e coloca em maiúsculo)
-        df.columns = df.columns.str.strip().str.upper()
-        
-        print(f"Catálogo carregado com sucesso! {len(df)} produtos encontrados.")
-        
-    except Exception as e:
-        print(f"Erro fatal ao carregar o arquivo: {e}")
-        return
+        df = pd.read_csv(url, sep=';', quotechar='"', on_bad_lines='skip', encoding='utf-8')
+    except:
+        df = pd.read_csv(url, sep=';', quotechar='"', on_bad_lines='skip', encoding='latin-1')
 
+    df.columns = [normalizar_coluna(c) for c in df.columns]
     chunks_finais = []
 
     for _, row in df.iterrows():
-        # Extração baseada na estrutura real do seu arquivo
-        # Utilizamos .get para evitar quebras caso alguma coluna falhe
-        nome = str(row.get('FAMÍLIA', 'N/A'))
-        codigo = str(row.get('CÓDIGO SAP', 'N/A'))
-        ativo = str(row.get('PRINCIPIO ATIVO', 'N/A'))
-        apresentacao = str(row.get('APRESENTAÇÃO', 'N/A'))
+        nome = str(row.get('FAMILIA', row.get('PRODUTO', 'N/A')))
+        codigo = str(row.get('CODIGO SAP', row.get('CODIGO', '0')))
+        apresentacao = str(row.get('APRESENTACAO', 'N/A'))
         
-        # Priorizamos o Preço Fábrica (PF) sem impostos iniciais como base
-        preco_base = row.get('ICMS 0 % (PF)', 0.0)
+        precos_pf = {}
+        precos_pmc = {}
         
-        # Se o PF 0% estiver zerado, tentamos o PF 18% (comum em SP/RJ)
-        if preco_base == 0.0 or pd.isna(preco_base):
-            preco_base = row.get('ICMS 18 %  (PF)', 0.0)
+        for aliq in ['0', '12', '17', '17.5', '18', '19', '20']:
+            aliq_str = aliq.replace('.', ',')
+            col_pf = [c for c in df.columns if aliq_str in c and '(PF)' in c]
+            col_pmc = [c for c in df.columns if aliq_str in c and '(PMC)' in c]
+            
+            precos_pf[aliq] = safe_float(row.get(col_pf[0])) if col_pf else 0.0
+            precos_pmc[aliq] = safe_float(row.get(col_pmc[0])) if col_pmc else 0.0
 
-        # Montagem da 'Âncora Semântica' (Estratégia para busca com LLM) [cite: 6, 7]
-        # Incluímos sinônimos e chaves para que a LLM encontre o produto por qualquer termo
-        conteudo_para_llm = (
-            f"PRODUTO: {nome} | "
-            f"CÓDIGO: {codigo} | "
-            f"PRINCÍPIO ATIVO: {ativo} | "
-            f"APRESENTAÇÃO: {apresentacao}"
-        )
-        
-        # Estrutura de Chunk solicitada
         chunk = {
             "id": codigo,
-            "text_chunk": conteudo_para_llm,
+            "text_chunk": f"PRODUTO: {nome} | CODIGO: {codigo} | APRESENTACAO: {apresentacao}",
             "metadata": {
                 "nome_comercial": nome,
-                "principio_ativo": ativo,
                 "apresentacao": apresentacao,
-                "preco_base": float(preco_base) if not pd.isna(preco_base) else 0.0
+                "precos_pf": precos_pf,
+                "precos_pmc": precos_pmc
             }
         }
         chunks_finais.append(chunk)
 
-    # Exportação para o arquivo JSON (Entrega do Item 1) 
-    nome_arquivo = 'chunks_produtos.json'
-    with open(nome_arquivo, 'w', encoding='utf-8') as f:
+    with open('chunks_produtos.json', 'w', encoding='utf-8') as f:
         json.dump(chunks_finais, f, indent=4, ensure_ascii=False)
-    
-    print(f"\nConcluído! Arquivo '{nome_arquivo}' gerado com sucesso.")
-    print(f"Total de chunks criados: {len(chunks_finais)}")
-    print("Exemplo do primeiro chunk:")
-    print(json.dumps(chunks_finais[0], indent=2, ensure_ascii=False))
+    print("Sucesso! Arquivo pronto para upload no Gemini.")
 
 if __name__ == "__main__":
     gerar_chunks_trabalho()
