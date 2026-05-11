@@ -1,71 +1,66 @@
-# Processador de Catálogo de Produtos (ETL & RAG)
+# Processador de Catálogo de Produtos (ETL & RAG) 🚀
 
-Este projeto automatiza a extração, tratamento e estruturação de dados de um catálogo de produtos farmacêuticos. O script em Python consome uma base de dados remota (CSV), realiza a limpeza dos dados e exporta o conteúdo em formato JSON estruturado em "chunks", ideal para ser utilizado em sistemas de busca semântica ou IA (RAG - Retrieval-Augmented Generation).
+Este projeto automatiza a extração, tratamento e estruturação de dados de um catálogo de produtos farmacêuticos. O script transforma uma base bruta (CSV) em um arquivo JSON estruturado em "chunks", otimizado para sistemas de **Busca Semântica** e **RAG (Retrieval-Augmented Generation)**.
 
-## 🚀 Funcionalidades
+## 🛠️ Funcionalidades
 
-- **Carga Automática:** Faz o download do catálogo diretamente de um repositório remoto via pandas.
-- **Limpeza de Dados:** Padroniza nomes de colunas, remove espaços extras e trata valores decimais e nulos.
-- **Cálculo de Preço:** Prioriza o ICMS de 17% (base), com fallback para 18% caso o valor base seja nulo.
-- **Geração de Chunks:** Cria uma "Âncora Semântica" no campo `text_chunk`, facilitando a busca por princípio ativo, nome comercial ou código.
-- **Exportação:** Gera o arquivo `chunks_produtos.json` pronto para indexação.
+- **Extração Automática:** Consome o catálogo atualizado diretamente de um repositório remoto via `pandas`.
+- **Data Cleaning:** Padronização de colunas (uppercase/strip), tratamento de valores nulos e conversão de tipos decimais.
+- **Lógica de Pricing:** Cálculo inteligente de preço base priorizando ICMS de 17% com fallback para 18%.
+- **Âncora Semântica:** Criação de `text_chunk` enriquecido para facilitar a recuperação de informações por LLMs.
+- **Saída Estruturada:** Geração de metadados prontos para indexação em vetores.
 
 ## 📋 Pré-requisitos
 
-Antes de rodar o script, você precisará ter o Python instalado e a biblioteca `pandas`.
+Certifique-se de ter o Python 3.8+ instalado. A única dependência externa é a biblioteca `pandas`.
 
 ```bash
 pip install pandas
-🛠️ Como Executar
-Clone ou baixe os arquivos:
-Certifique-se de que o arquivo script.py esteja na sua pasta de trabalho.
+🚀 Como Executar
+Preparação: Salve o arquivo script.py em uma pasta de sua preferência.
 
-Execute o script:
-Você pode rodar o script via terminal ou dentro de uma IDE (VS Code, PyCharm, etc.):
+Execução: Rode o script via terminal:
 
 Bash
 python script.py
-Verifique a Saída:
-Após a execução, uma mensagem de sucesso aparecerá no console e o arquivo chunks_produtos.json será criado no mesmo diretório.
+Resultado: O arquivo chunks_produtos.json será gerado automaticamente no mesmo diretório com o log de sucesso no console.
 
-📂 Estrutura de Arquivos
-script.py: Script principal contendo a lógica de extração e transformação.
+📂 Estrutura do Projeto
+script.py: Core do sistema (Extração, Transformação e Carga).
 
-chunks_produtos.json: (Gerado após execução) Arquivo contendo os dados estruturados com metadados.
+chunks_produtos.json: Base de conhecimento gerada para a IA.
 
 📄 Exemplo do Dado Gerado
-Cada objeto no JSON segue este padrão:
+O formato de saída é otimizado para que a IA entenda o contexto de cada produto individualmente:
 
 JSON
 {
     "id": "1000001",
-    "text_chunk": "PRODUTO: ACCUVIT | CÓDIGO: 1000001 | PRINCÍPIO ATIVO: POLIVITAMÍNICO; | APRESENTAÇÃO: ACCUVIT COMREV FRX30",
+    "text_chunk": "PRODUTO: ACCUVIT | CÓDIGO: 1000001 | PRINCÍPIO ATIVO: POLIVITAMÍNICO | APRESENTAÇÃO: ACCUVIT COMREV FRX30",
     "metadata": {
         "nome_comercial": "ACCUVIT",
         "principio_ativo": "POLIVITAMÍNICO",
         "apresentacao": "ACCUVIT COMREV FRX30",
         "preco_base": 91.44
     }
+}
+💎 Configuração no Google Gemini (Gems)
+Para utilizar este projeto como cérebro de um assistente de vendas/orçamentos:
 
-💎 Como Configurar o Gem (Google Gemini)
-Para testar os chunks e gerar os orçamentos, siga estas etapas:
+Criação: No Google Gemini, vá em Gerenciar Gems > Novo Gem.
 
-Acesse o Gemini: Vá para a interface do Google Gemini.
+Conhecimento (Knowledge): Faça o upload do arquivo chunks_produtos.json.
 
-Criar Novo Gem: Clique em "Gerenciar Gems" (ou ícone de +) e depois em "Novo Gem".
+Instruções de Sistema: Utilize o prompt abaixo para configurar o comportamento:
 
-Upload de Conhecimento (Knowledge): Faça o upload do arquivo chunks_produtos.json gerado pelo script.
+"Você é um assistente de vendas farmacêuticas. Use o arquivo de conhecimento fornecido para consultar preços e produtos.
+Regras de Negócio:
 
-Configurar Instruções: No campo de instruções, utilize o prompt que define as regras de negócio:
+Extraia sempre a quantidade e o nome do produto do pedido do usuário.
 
-Extrair quantidades e produtos.
+Se o cliente for do Rio de Janeiro (RJ), aplique uma taxa total de 20% sobre o preco_base.
 
-Identificar o tipo de cliente e UF.
-
-Aplicar 20% de ICMS para clientes do Rio de Janeiro (RJ).
-
-Saída estrita em formato JSON.
+Responda estritamente em formato JSON contendo: Produto, Preço Unitário, Preço Total e Impostos Aplicados."
 
 📊 Resultado Esperado
-O script gera um arquivo estruturado onde cada produto é um "chunk" enriquecido.
-
+Ao final, você terá um pipeline que transforma dados tabulares estáticos em uma base de conhecimento dinâmica, capaz de alimentar agentes de IA para automação de orçamentos complexos.
