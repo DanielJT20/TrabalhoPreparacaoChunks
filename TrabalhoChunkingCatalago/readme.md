@@ -16,13 +16,16 @@ Certifique-se de ter o Python 3.8+ instalado. A única dependência externa é a
 
 ```bash
 pip install pandas
+```
+
 🚀 Como Executar
 Preparação: Salve o arquivo script.py em uma pasta de sua preferência.
 
 Execução: Rode o script via terminal:
 
-Bash
+``` bash
 python script.py
+```
 Resultado: O arquivo chunks_produtos.json será gerado automaticamente no mesmo diretório com o log de sucesso no console.
 
 📂 Estrutura do Projeto
@@ -33,6 +36,7 @@ chunks_produtos.json: Base de conhecimento gerada para a IA.
 📄 Exemplo do Dado Gerado
 O formato de saída é otimizado para que a IA entenda o contexto de cada produto individualmente:
 
+``` bash
 JSON
 {
     "id": "1000001",
@@ -43,7 +47,8 @@ JSON
         "apresentacao": "ACCUVIT COMREV FRX30",
         "preco_base": 91.44
     }
-}
+```
+
 💎 Configuração no Google Gemini (Gems)
 Para utilizar este projeto como cérebro de um assistente de vendas/orçamentos:
 
